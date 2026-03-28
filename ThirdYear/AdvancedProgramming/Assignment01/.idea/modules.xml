@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Task01/Task01.iml" filepath="$PROJECT_DIR$/Task01/Task01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task02/Task02.iml" filepath="$PROJECT_DIR$/Task02/Task02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task03/Task03.iml" filepath="$PROJECT_DIR$/Task03/Task03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task04/Task04.iml" filepath="$PROJECT_DIR$/Task04/Task04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wrpv301_Assignment01.iml" filepath="$PROJECT_DIR$/.idea/wrpv301_Assignment01.iml" />
+    </modules>
+  </component>
+</project>

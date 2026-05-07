@@ -1,0 +1,9 @@
+<menu controller="nmmu.wrap301.Controller" title="Main Menu">
+    <choice text="What is your name?" method="whatIsYourNameAction"/>
+    <choice text="Say hello world" method="helloWorldAction"/>
+    <choice text="Display 5 x table" method="fiveTimesTableAction"/>
+    <submenu text="Other functions" title="SubMenu">
+        <choice text="Is prime?" method="isPrimeAction"/>
+        <choice text="Is odd?" method="isOddAction"/>
+    </submenu>
+</menu>

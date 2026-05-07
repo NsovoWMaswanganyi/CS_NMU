@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lines speaker="HORATIO">
+    <act title="ACT I">
+        <scene title="SCENE I. Elsinore. A platform before the castle.">
+            <speech id="1">
+                <line>Friends to this ground.</line>
+            </speech>
+            <speech id="2">
+                <line>A piece of him.</line>
+            </speech>
+            <speech id="3">
+                <line>Tush, tush, 'twill not appear.</line>
+            </speech>
+            <speech id="4">
+                <line>Well, sit we down,</line>
+                <line>And let us hear Bernardo speak of this.</line>
+            </speech>
+            <speech id="5">
+                <line>Most like: it harrows me with fear and wonder.</line>
+            </speech>
+            <speech id="6">
+                <line>What art thou that usurp'st this time of night,</line>
+                <line>Together with that fair and warlike form</line>
+                <line>In which the majesty of buried Denmark</line>
+                <line>Did sometimes march? by heaven I charge thee, speak!</line>
+            </speech>
+            <speech id="7">
+                <line>Stay! speak, speak! I charge thee, speak!</line>
+            </speech>
+            <speech id="8">
+                <line>Before my God, I might not this believe</line>
+                <line>Without the sensible and true avouch</line>
+                <line>Of mine own eyes.</line>
+            </speech>
+            <speech id="9">
+                <line>As thou art to thyself:</line>
+                <line>Such was the very armour he had on</line>
+                <line>When he the ambitious Norway combated;</line>
+                <line>So frown'd he once, when, in an angry parle,</line>
+                <line>He smote the sledded Polacks on the ice.</line>
+                <line>'Tis strange.</line>
+            </speech>
+            <speech id="10">
+                <line>In what particular thought to work I know not;</line>
+                <line>But in the gross and scope of my opinion,</line>
+                <line>This bodes some strange eruption to our state.</line>
+            </speech>
+            <speech id="11">
+                <line>That can I;</line>
+                <line>At least, the whisper goes so. Our last king,</line>
+                <line>Whose image even but now appear'd to us,</line>
+                <line>Was, as you know, by Fortinbras of Norway,</line>
+                <line>Thereto prick'd on by a most emulate pride,</line>
+                <line>Dared to the combat; in which our valiant Hamlet--</line>
+                <line>For so this side of our known world esteem'd him--</line>
+                <line>Did slay this Fortinbras; who by a seal'd compact,</line>
+                <line>Well ratified by law and heraldry,</line>
+                <line>Did forfeit, with his life, all those his lands</line>
+                <line>Which he stood seized of, to the conqueror:</line>
+                <line>Against the which, a moiety competent</line>
+                <line>Was gaged by our king; which had return'd</line>
+                <line>To the inheritance of Fortinbras,</line>
+                <line>Had he been vanquisher; as, by the same covenant,</line>
+                <line>And carriage of the article design'd,</line>
+                <line>His fell to Hamlet. Now, sir, young Fortinbras,</line>
+                <line>Of unimproved mettle hot and full,</line>
+                <line>Hath in the skirts of Norway here and there</line>
+                <line>Shark'd up a list of lawless resolutes,</line>
+                <line>For food and diet, to some enterprise</line>
+                <line>That hath a stomach in't; which is no other--</line>
+                <line>As it doth well appear unto our state--</line>
+                <line>But to recover of us, by strong hand</line>
+                <line>And terms compulsatory, those foresaid lands</line>
+                <line>So by his father lost: and this, I take it,</line>
+                <line>Is the main motive of our preparations,</line>
+                <line>The source of this our watch and the chief head</line>
+                <line>Of this post-haste and romage in the land.</line>
+            </speech>
+            <speech id="12">
+                <line>A mote it is to trouble the mind's eye.</line>
+                <line>In the most high and palmy state of Rome,</line>
+                <line>A little ere the mightiest Julius fell,</line>
+                <line>The graves stood tenantless and the sheeted dead</line>
+                <line>Did squeak and gibber in the Roman streets:</line>
+                <line>As stars with trains of fire and dews of blood,</line>
+                <line>Disasters in the sun; and the moist star</line>
+                <line>Upon whose influence Neptune's empire stands</line>
+                <line>Was sick almost to doomsday with eclipse:</line>
+                <line>And even the like precurse of fierce events,</line>
+                <line>As harbingers preceding still the fates</line>
+                <line>And prologue to the omen coming on,</line>
+                <line>Have heaven and earth together demonstrated</line>
+                <line>Unto our climatures and countrymen.--</line>
+                <line>But soft, behold! lo, where it comes again!</line>
+                <line>I'll cross it, though it blast me. Stay, illusion!</line>
+                <line>If thou hast any sound, or use of voice,</line>
+                <line>Speak to me:</line>
+                <line>If there be any good thing to be done,</line>
+                <line>That may to thee do ease and grace to me,</line>
+                <line>Speak to me:</line>
+                <line>If thou art privy to thy country's fate,</line>
+                <line>Which, happily, foreknowing may avoid, O, speak!</line>
+                <line>Or if thou hast uphoarded in thy life</line>
+                <line>Extorted treasure in the womb of earth,</line>
+                <line>For which, they say, you spirits oft walk in death,</line>
+                <line>Speak of it: stay, and speak! Stop it, Marcellus.</line>
+            </speech>
+            <speech id="13">
+                <line>Do, if it will not stand.</line>
+            </speech>
+            <speech id="14">
+                <line>'Tis here!</line>
+            </speech>
+            <speech id="15">
+                <line>And then it started like a guilty thing</line>
+                <line>Upon a fearful summons. I have heard,</line>
+                <line>The cock, that is the trumpet to the morn,</line>
+                <line>Doth with his lofty and shrill-sounding throat</line>
+                <line>Awake the god of day; and, at his warning,</line>
+                <line>Whether in sea or fire, in earth or air,</line>
+                <line>The extravagant and erring spirit hies</line>
+                <line>To his confine: and of the truth herein</line>
+                <line>This present object made probation.</line>
+            </speech>
+            <speech id="16">
+                <line>So have I heard and do in part believe it.</line>
+                <line>But, look, the morn, in russet mantle clad,</line>
+                <line>Walks o'er the dew of yon high eastward hill:</line>
+                <line>Break we our watch up; and by my advice,</line>
+                <line>Let us impart what we have seen to-night</line>
+                <line>Unto young Hamlet; for, upon my life,</line>
+                <line>This spirit, dumb to us, will speak to him.</line>
+                <line>Do you consent we shall acquaint him with it,</line>
+                <line>As needful in our loves, fitting our duty?</line>
+            </speech>
+        </scene>
+        <scene title="SCENE II. A room of state in the castle.">
+            <speech id="17">
+                <line>Hail to your lordship!</line>
+            </speech>
+            <speech id="18">
+                <line>The same, my lord, and your poor servant ever.</line>
+            </speech>
+            <speech id="19">
+                <line>A truant disposition, good my lord.</line>
+            </speech>
+            <speech id="20">
+                <line>My lord, I came to see your father's funeral.</line>
+            </speech>
+            <speech id="21">
+                <line>Indeed, my lord, it follow'd hard upon.</line>
+            </speech>
+            <speech id="22">
+                <line>Where, my lord?</line>
+            </speech>
+            <speech id="23">
+                <line>I saw him once; he was a goodly king.</line>
+            </speech>
+            <speech id="24">
+                <line>My lord, I think I saw him yesternight.</line>
+            </speech>
+            <speech id="25">
+                <line>My lord, the king your father.</line>
+            </speech>
+            <speech id="26">
+                <line>Season your admiration for awhile</line>
+                <line>With an attent ear, till I may deliver,</line>
+                <line>Upon the witness of these gentlemen,</line>
+                <line>This marvel to you.</line>
+            </speech>
+            <speech id="27">
+                <line>Two nights together had these gentlemen,</line>
+                <line>Marcellus and Bernardo, on their watch,</line>
+                <line>In the dead vast and middle of the night,</line>
+                <line>Been thus encounter'd. A figure like your father,</line>
+                <line>Armed at point exactly, cap-a-pe,</line>
+                <line>Appears before them, and with solemn march</line>
+                <line>Goes slow and stately by them: thrice he walk'd</line>
+                <line>By their oppress'd and fear-surprised eyes,</line>
+                <line>Within his truncheon's length; whilst they, distilled</line>
+                <line>Almost to jelly with the act of fear,</line>
+                <line>Stand dumb and speak not to him. This to me</line>
+                <line>In dreadful secrecy impart they did;</line>
+                <line>And I with them the third night kept the watch;</line>
+                <line>Where, as they had deliver'd, both in time,</line>
+                <line>Form of the thing, each word made true and good,</line>
+                <line>The apparition comes: I knew your father;</line>
+                <line>These hands are not more like.</line>
+            </speech>
+            <speech id="28">
+                <line>My lord, I did;</line>
+                <line>But answer made it none: yet once methought</line>
+                <line>It lifted up its head and did address</line>
+                <line>Itself to motion, like as it would speak;</line>
+                <line>But even then the morning cock crew loud,</line>
+                <line>And at the sound it shrunk in haste away,</line>
+                <line>And vanish'd from our sight.</line>
+            </speech>
+            <speech id="29">
+                <line>As I do live, my honour'd lord, 'tis true;</line>
+                <line>And we did think it writ down in our duty</line>
+                <line>To let you know of it.</line>
+            </speech>
+            <speech id="30">
+                <line>O, yes, my lord; he wore his beaver up.</line>
+            </speech>
+            <speech id="31">
+                <line>A countenance more in sorrow than in anger.</line>
+            </speech>
+            <speech id="32">
+                <line>Nay, very pale.</line>
+            </speech>
+            <speech id="33">
+                <line>Most constantly.</line>
+            </speech>
+            <speech id="34">
+                <line>It would have much amazed you.</line>
+            </speech>
+            <speech id="35">
+                <line>While one with moderate haste might tell a hundred.</line>
+            </speech>
+            <speech id="36">
+                <line>Not when I saw't.</line>
+            </speech>
+            <speech id="37">
+                <line>It was, as I have seen it in his life,</line>
+                <line>A sable silver'd.</line>
+            </speech>
+            <speech id="38">
+                <line>I warrant it will.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE III. A room in Polonius' house."/>
+        <scene title="SCENE IV. The platform.">
+            <speech id="39">
+                <line>It is a nipping and an eager air.</line>
+            </speech>
+            <speech id="40">
+                <line>I think it lacks of twelve.</line>
+            </speech>
+            <speech id="41">
+                <line>Indeed? I heard it not: then it draws near the season</line>
+                <line>Wherein the spirit held his wont to walk.</line>
+                <line>What does this mean, my lord?</line>
+            </speech>
+            <speech id="42">
+                <line>Is it a custom?</line>
+            </speech>
+            <speech id="43">
+                <line>Look, my lord, it comes!</line>
+            </speech>
+            <speech id="44">
+                <line>It beckons you to go away with it,</line>
+                <line>As if it some impartment did desire</line>
+                <line>To you alone.</line>
+            </speech>
+            <speech id="45">
+                <line>No, by no means.</line>
+            </speech>
+            <speech id="46">
+                <line>Do not, my lord.</line>
+            </speech>
+            <speech id="47">
+                <line>What if it tempt you toward the flood, my lord,</line>
+                <line>Or to the dreadful summit of the cliff</line>
+                <line>That beetles o'er his base into the sea,</line>
+                <line>And there assume some other horrible form,</line>
+                <line>Which might deprive your sovereignty of reason</line>
+                <line>And draw you into madness? think of it:</line>
+                <line>The very place puts toys of desperation,</line>
+                <line>Without more motive, into every brain</line>
+                <line>That looks so many fathoms to the sea</line>
+                <line>And hears it roar beneath.</line>
+            </speech>
+            <speech id="48">
+                <line>Be ruled; you shall not go.</line>
+            </speech>
+            <speech id="49">
+                <line>He waxes desperate with imagination.</line>
+            </speech>
+            <speech id="50">
+                <line>Have after. To what issue will this come?</line>
+            </speech>
+            <speech id="51">
+                <line>Heaven will direct it.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE V. Another part of the platform.">
+            <speech id="52">
+                <line>
+                    Within
+                    Heaven secure him!
+                </line>
+            </speech>
+            <speech id="53">
+                <line>
+                    Within
+                    Hillo, ho, ho, my lord!
+                </line>
+            </speech>
+            <speech id="54">
+                <line>What news, my lord?</line>
+            </speech>
+            <speech id="55">
+                <line>Good my lord, tell it.</line>
+            </speech>
+            <speech id="56">
+                <line>Not I, my lord, by heaven.</line>
+            </speech>
+            <speech id="57">
+                <line>Ay, by heaven, my lord.</line>
+            </speech>
+            <speech id="58">
+                <line>There needs no ghost, my lord, come from the grave</line>
+                <line>To tell us this.</line>
+            </speech>
+            <speech id="59">
+                <line>These are but wild and whirling words, my lord.</line>
+            </speech>
+            <speech id="60">
+                <line>There's no offence, my lord.</line>
+            </speech>
+            <speech id="61">
+                <line>What is't, my lord? we will.</line>
+            </speech>
+            <speech id="62">
+                <line>My lord, we will not.</line>
+            </speech>
+            <speech id="63">
+                <line>In faith,</line>
+                <line>My lord, not I.</line>
+            </speech>
+            <speech id="64">
+                <line>Propose the oath, my lord.</line>
+            </speech>
+            <speech id="65">
+                <line>O day and night, but this is wondrous strange!</line>
+            </speech>
+        </scene>
+    </act>
+    <act title="ACT II">
+        <scene title="SCENE I. A room in POLONIUS' house."/>
+        <scene title="SCENE II. A room in the castle."/>
+    </act>
+    <act title="ACT III">
+        <scene title="SCENE I. A room in the castle."/>
+        <scene title="SCENE II. A hall in the castle.">
+            <speech id="66">
+                <line>Here, sweet lord, at your service.</line>
+            </speech>
+            <speech id="67">
+                <line>O, my dear lord,--</line>
+            </speech>
+            <speech id="68">
+                <line>Well, my lord:</line>
+                <line>If he steal aught the whilst this play is playing,</line>
+                <line>And 'scape detecting, I will pay the theft.</line>
+            </speech>
+            <speech id="69">
+                <line>Half a share.</line>
+            </speech>
+            <speech id="70">
+                <line>You might have rhymed.</line>
+            </speech>
+            <speech id="71">
+                <line>Very well, my lord.</line>
+            </speech>
+            <speech id="72">
+                <line>I did very well note him.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE III. A room in the castle."/>
+        <scene title="SCENE IV. The Queen's closet."/>
+    </act>
+    <act title="ACT IV">
+        <scene title="SCENE I. A room in the castle."/>
+        <scene title="SCENE II. Another room in the castle."/>
+        <scene title="SCENE III. Another room in the castle."/>
+        <scene title="SCENE IV. A plain in Denmark."/>
+        <scene title="SCENE V. Elsinore. A room in the castle.">
+            <speech id="73">
+                <line>'Twere good she were spoken with; for she may strew</line>
+                <line>Dangerous conjectures in ill-breeding minds.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE VI. Another room in the castle.">
+            <speech id="74">
+                <line>What are they that would speak with me?</line>
+            </speech>
+            <speech id="75">
+                <line>Let them come in.</line>
+                <line>I do not know from what part of the world</line>
+                <line>I should be greeted, if not from Lord Hamlet.</line>
+            </speech>
+            <speech id="76">
+                <line>Let him bless thee too.</line>
+            </speech>
+            <speech id="77">
+                <line>
+                    Reads
+                    'Horatio, when thou shalt have overlooked
+                </line>
+                <line>this, give these fellows some means to the king:</line>
+                <line>they have letters for him. Ere we were two days old</line>
+                <line>at sea, a pirate of very warlike appointment gave us</line>
+                <line>chase. Finding ourselves too slow of sail, we put on</line>
+                <line>a compelled valour, and in the grapple I boarded</line>
+                <line>them: on the instant they got clear of our ship; so</line>
+                <line>I alone became their prisoner. They have dealt with</line>
+                <line>me like thieves of mercy: but they knew what they</line>
+                <line>did; I am to do a good turn for them. Let the king</line>
+                <line>have the letters I have sent; and repair thou to me</line>
+                <line>with as much speed as thou wouldst fly death. I</line>
+                <line>have words to speak in thine ear will make thee</line>
+                <line>dumb; yet are they much too light for the bore of</line>
+                <line>the matter. These good fellows will bring thee</line>
+                <line>where I am. Rosencrantz and Guildenstern hold their</line>
+                <line>course for England: of them I have much to tell</line>
+                <line>thee. Farewell.</line>
+                <line>'He that thou knowest thine, HAMLET.'</line>
+                <line>Come, I will make you way for these your letters;</line>
+                <line>And do't the speedier, that you may direct me</line>
+                <line>To him from whom you brought them.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE VII. Another room in the castle."/>
+    </act>
+    <act title="ACT V">
+        <scene title="SCENE I. A churchyard.">
+            <speech id="78">
+                <line>Custom hath made it in him a property of easiness.</line>
+            </speech>
+            <speech id="79">
+                <line>It might, my lord.</line>
+            </speech>
+            <speech id="80">
+                <line>Ay, my lord.</line>
+            </speech>
+            <speech id="81">
+                <line>Not a jot more, my lord.</line>
+            </speech>
+            <speech id="82">
+                <line>Ay, my lord, and of calf-skins too.</line>
+            </speech>
+            <speech id="83">
+                <line>What's that, my lord?</line>
+            </speech>
+            <speech id="84">
+                <line>E'en so.</line>
+            </speech>
+            <speech id="85">
+                <line>E'en so, my lord.</line>
+            </speech>
+            <speech id="86">
+                <line>'Twere to consider too curiously, to consider so.</line>
+            </speech>
+            <speech id="87">
+                <line>Good my lord, be quiet.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE II. A hall in the castle.">
+            <speech id="88">
+                <line>Remember it, my lord?</line>
+            </speech>
+            <speech id="89">
+                <line>That is most certain.</line>
+            </speech>
+            <speech id="90">
+                <line>Is't possible?</line>
+            </speech>
+            <speech id="91">
+                <line>I beseech you.</line>
+            </speech>
+            <speech id="92">
+                <line>Ay, good my lord.</line>
+            </speech>
+            <speech id="93">
+                <line>How was this seal'd?</line>
+            </speech>
+            <speech id="94">
+                <line>So Guildenstern and Rosencrantz go to't.</line>
+            </speech>
+            <speech id="95">
+                <line>Why, what a king is this!</line>
+            </speech>
+            <speech id="96">
+                <line>It must be shortly known to him from England</line>
+                <line>What is the issue of the business there.</line>
+            </speech>
+            <speech id="97">
+                <line>Peace! who comes here?</line>
+            </speech>
+            <speech id="98">
+                <line>No, my good lord.</line>
+            </speech>
+            <speech id="99">
+                <line>Is't not possible to understand in another tongue?</line>
+                <line>You will do't, sir, really.</line>
+            </speech>
+            <speech id="100">
+                <line>His purse is empty already; all's golden words are spent.</line>
+            </speech>
+            <speech id="101">
+                <line>I knew you must be edified by the margent ere you had done.</line>
+            </speech>
+            <speech id="102">
+                <line>This lapwing runs away with the shell on his head.</line>
+            </speech>
+            <speech id="103">
+                <line>You will lose this wager, my lord.</line>
+            </speech>
+            <speech id="104">
+                <line>Nay, good my lord,--</line>
+            </speech>
+            <speech id="105">
+                <line>If your mind dislike any thing, obey it: I will</line>
+                <line>forestall their repair hither, and say you are not</line>
+                <line>fit.</line>
+            </speech>
+            <speech id="106">
+                <line>They bleed on both sides. How is it, my lord?</line>
+            </speech>
+            <speech id="107">
+                <line>Never believe it:</line>
+                <line>I am more an antique Roman than a Dane:</line>
+                <line>Here's yet some liquor left.</line>
+            </speech>
+            <speech id="108">
+                <line>Now cracks a noble heart. Good night sweet prince:</line>
+                <line>And flights of angels sing thee to thy rest!</line>
+                <line>Why does the drum come hither?</line>
+            </speech>
+            <speech id="109">
+                <line>What is it ye would see?</line>
+                <line>If aught of woe or wonder, cease your search.</line>
+            </speech>
+            <speech id="110">
+                <line>Not from his mouth,</line>
+                <line>Had it the ability of life to thank you:</line>
+                <line>He never gave commandment for their death.</line>
+                <line>But since, so jump upon this bloody question,</line>
+                <line>You from the Polack wars, and you from England,</line>
+                <line>Are here arrived give order that these bodies</line>
+                <line>High on a stage be placed to the view;</line>
+                <line>And let me speak to the yet unknowing world</line>
+                <line>How these things came about: so shall you hear</line>
+                <line>Of carnal, bloody, and unnatural acts,</line>
+                <line>Of accidental judgments, casual slaughters,</line>
+                <line>Of deaths put on by cunning and forced cause,</line>
+                <line>And, in this upshot, purposes mistook</line>
+                <line>Fall'n on the inventors' reads: all this can I</line>
+                <line>Truly deliver.</line>
+            </speech>
+            <speech id="111">
+                <line>Of that I shall have also cause to speak,</line>
+                <line>And from his mouth whose voice will draw on more;</line>
+                <line>But let this same be presently perform'd,</line>
+                <line>Even while men's minds are wild; lest more mischance</line>
+                <line>On plots and errors, happen.</line>
+            </speech>
+        </scene>
+    </act>
+</lines>

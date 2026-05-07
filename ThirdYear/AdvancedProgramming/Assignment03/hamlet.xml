@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lines speaker="HAMLET">
+    <act title="ACT I">
+        <scene title="SCENE I. Elsinore. A platform before the castle."/>
+        <scene title="SCENE II. A room of state in the castle.">
+            <speech id="1">
+                <line>
+                    Aside
+                    A little more than kin, and less than kind.
+                </line>
+            </speech>
+            <speech id="2">
+                <line>Not so, my lord; I am too much i' the sun.</line>
+            </speech>
+            <speech id="3">
+                <line>Ay, madam, it is common.</line>
+            </speech>
+            <speech id="4">
+                <line>Seems, madam! nay it is; I know not 'seems.'</line>
+                <line>'Tis not alone my inky cloak, good mother,</line>
+                <line>Nor customary suits of solemn black,</line>
+                <line>Nor windy suspiration of forced breath,</line>
+                <line>No, nor the fruitful river in the eye,</line>
+                <line>Nor the dejected 'havior of the visage,</line>
+                <line>Together with all forms, moods, shapes of grief,</line>
+                <line>That can denote me truly: these indeed seem,</line>
+                <line>For they are actions that a man might play:</line>
+                <line>But I have that within which passeth show;</line>
+                <line>These but the trappings and the suits of woe.</line>
+            </speech>
+            <speech id="5">
+                <line>I shall in all my best obey you, madam.</line>
+            </speech>
+            <speech id="6">
+                <line>O, that this too too solid flesh would melt</line>
+                <line>Thaw and resolve itself into a dew!</line>
+                <line>Or that the Everlasting had not fix'd</line>
+                <line>His canon 'gainst self-slaughter! O God! God!</line>
+                <line>How weary, stale, flat and unprofitable,</line>
+                <line>Seem to me all the uses of this world!</line>
+                <line>Fie on't! ah fie! 'tis an unweeded garden,</line>
+                <line>That grows to seed; things rank and gross in nature</line>
+                <line>Possess it merely. That it should come to this!</line>
+                <line>But two months dead: nay, not so much, not two:</line>
+                <line>So excellent a king; that was, to this,</line>
+                <line>Hyperion to a satyr; so loving to my mother</line>
+                <line>That he might not beteem the winds of heaven</line>
+                <line>Visit her face too roughly. Heaven and earth!</line>
+                <line>Must I remember? why, she would hang on him,</line>
+                <line>As if increase of appetite had grown</line>
+                <line>By what it fed on: and yet, within a month--</line>
+                <line>Let me not think on't--Frailty, thy name is woman!--</line>
+                <line>A little month, or ere those shoes were old</line>
+                <line>With which she follow'd my poor father's body,</line>
+                <line>Like Niobe, all tears:--why she, even she--</line>
+                <line>O, God! a beast, that wants discourse of reason,</line>
+                <line>Would have mourn'd longer--married with my uncle,</line>
+                <line>My father's brother, but no more like my father</line>
+                <line>Than I to Hercules: within a month:</line>
+                <line>Ere yet the salt of most unrighteous tears</line>
+                <line>Had left the flushing in her galled eyes,</line>
+                <line>She married. O, most wicked speed, to post</line>
+                <line>With such dexterity to incestuous sheets!</line>
+                <line>It is not nor it cannot come to good:</line>
+                <line>But break, my heart; for I must hold my tongue.</line>
+            </speech>
+            <speech id="7">
+                <line>I am glad to see you well:</line>
+                <line>Horatio,--or I do forget myself.</line>
+            </speech>
+            <speech id="8">
+                <line>Sir, my good friend; I'll change that name with you:</line>
+                <line>And what make you from Wittenberg, Horatio? Marcellus?</line>
+            </speech>
+            <speech id="9">
+                <line>I am very glad to see you. Good even, sir.</line>
+                <line>But what, in faith, make you from Wittenberg?</line>
+            </speech>
+            <speech id="10">
+                <line>I would not hear your enemy say so,</line>
+                <line>Nor shall you do mine ear that violence,</line>
+                <line>To make it truster of your own report</line>
+                <line>Against yourself: I know you are no truant.</line>
+                <line>But what is your affair in Elsinore?</line>
+                <line>We'll teach you to drink deep ere you depart.</line>
+            </speech>
+            <speech id="11">
+                <line>I pray thee, do not mock me, fellow-student;</line>
+                <line>I think it was to see my mother's wedding.</line>
+            </speech>
+            <speech id="12">
+                <line>Thrift, thrift, Horatio! the funeral baked meats</line>
+                <line>Did coldly furnish forth the marriage tables.</line>
+                <line>Would I had met my dearest foe in heaven</line>
+                <line>Or ever I had seen that day, Horatio!</line>
+                <line>My father!--methinks I see my father.</line>
+            </speech>
+            <speech id="13">
+                <line>In my mind's eye, Horatio.</line>
+            </speech>
+            <speech id="14">
+                <line>He was a man, take him for all in all,</line>
+                <line>I shall not look upon his like again.</line>
+            </speech>
+            <speech id="15">
+                <line>Saw? who?</line>
+            </speech>
+            <speech id="16">
+                <line>The king my father!</line>
+            </speech>
+            <speech id="17">
+                <line>For God's love, let me hear.</line>
+            </speech>
+            <speech id="18">
+                <line>But where was this?</line>
+            </speech>
+            <speech id="19">
+                <line>Did you not speak to it?</line>
+            </speech>
+            <speech id="20">
+                <line>'Tis very strange.</line>
+            </speech>
+            <speech id="21">
+                <line>Indeed, indeed, sirs, but this troubles me.</line>
+                <line>Hold you the watch to-night?</line>
+            </speech>
+            <speech id="22">
+                <line>Arm'd, say you?</line>
+            </speech>
+            <speech id="23">
+                <line>From top to toe?</line>
+            </speech>
+            <speech id="24">
+                <line>Then saw you not his face?</line>
+            </speech>
+            <speech id="25">
+                <line>What, look'd he frowningly?</line>
+            </speech>
+            <speech id="26">
+                <line>Pale or red?</line>
+            </speech>
+            <speech id="27">
+                <line>And fix'd his eyes upon you?</line>
+            </speech>
+            <speech id="28">
+                <line>I would I had been there.</line>
+            </speech>
+            <speech id="29">
+                <line>Very like, very like. Stay'd it long?</line>
+            </speech>
+            <speech id="30">
+                <line>His beard was grizzled--no?</line>
+            </speech>
+            <speech id="31">
+                <line>I will watch to-night;</line>
+                <line>Perchance 'twill walk again.</line>
+            </speech>
+            <speech id="32">
+                <line>If it assume my noble father's person,</line>
+                <line>I'll speak to it, though hell itself should gape</line>
+                <line>And bid me hold my peace. I pray you all,</line>
+                <line>If you have hitherto conceal'd this sight,</line>
+                <line>Let it be tenable in your silence still;</line>
+                <line>And whatsoever else shall hap to-night,</line>
+                <line>Give it an understanding, but no tongue:</line>
+                <line>I will requite your loves. So, fare you well:</line>
+                <line>Upon the platform, 'twixt eleven and twelve,</line>
+                <line>I'll visit you.</line>
+            </speech>
+            <speech id="33">
+                <line>Your loves, as mine to you: farewell.</line>
+                <line>My father's spirit in arms! all is not well;</line>
+                <line>I doubt some foul play: would the night were come!</line>
+                <line>Till then sit still, my soul: foul deeds will rise,</line>
+                <line>Though all the earth o'erwhelm them, to men's eyes.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE III. A room in Polonius' house."/>
+        <scene title="SCENE IV. The platform.">
+            <speech id="34">
+                <line>The air bites shrewdly; it is very cold.</line>
+            </speech>
+            <speech id="35">
+                <line>What hour now?</line>
+            </speech>
+            <speech id="36">
+                <line>No, it is struck.</line>
+            </speech>
+            <speech id="37">
+                <line>The king doth wake to-night and takes his rouse,</line>
+                <line>Keeps wassail, and the swaggering up-spring reels;</line>
+                <line>And, as he drains his draughts of Rhenish down,</line>
+                <line>The kettle-drum and trumpet thus bray out</line>
+                <line>The triumph of his pledge.</line>
+            </speech>
+            <speech id="38">
+                <line>Ay, marry, is't:</line>
+                <line>But to my mind, though I am native here</line>
+                <line>And to the manner born, it is a custom</line>
+                <line>More honour'd in the breach than the observance.</line>
+                <line>This heavy-headed revel east and west</line>
+                <line>Makes us traduced and tax'd of other nations:</line>
+                <line>They clepe us drunkards, and with swinish phrase</line>
+                <line>Soil our addition; and indeed it takes</line>
+                <line>From our achievements, though perform'd at height,</line>
+                <line>The pith and marrow of our attribute.</line>
+                <line>So, oft it chances in particular men,</line>
+                <line>That for some vicious mole of nature in them,</line>
+                <line>As, in their birth--wherein they are not guilty,</line>
+                <line>Since nature cannot choose his origin--</line>
+                <line>By the o'ergrowth of some complexion,</line>
+                <line>Oft breaking down the pales and forts of reason,</line>
+                <line>Or by some habit that too much o'er-leavens</line>
+                <line>The form of plausive manners, that these men,</line>
+                <line>Carrying, I say, the stamp of one defect,</line>
+                <line>Being nature's livery, or fortune's star,--</line>
+                <line>Their virtues else--be they as pure as grace,</line>
+                <line>As infinite as man may undergo--</line>
+                <line>Shall in the general censure take corruption</line>
+                <line>From that particular fault: the dram of eale</line>
+                <line>Doth all the noble substance of a doubt</line>
+                <line>To his own scandal.</line>
+            </speech>
+            <speech id="39">
+                <line>Angels and ministers of grace defend us!</line>
+                <line>Be thou a spirit of health or goblin damn'd,</line>
+                <line>Bring with thee airs from heaven or blasts from hell,</line>
+                <line>Be thy intents wicked or charitable,</line>
+                <line>Thou comest in such a questionable shape</line>
+                <line>That I will speak to thee: I'll call thee Hamlet,</line>
+                <line>King, father, royal Dane: O, answer me!</line>
+                <line>Let me not burst in ignorance; but tell</line>
+                <line>Why thy canonized bones, hearsed in death,</line>
+                <line>Have burst their cerements; why the sepulchre,</line>
+                <line>Wherein we saw thee quietly inurn'd,</line>
+                <line>Hath oped his ponderous and marble jaws,</line>
+                <line>To cast thee up again. What may this mean,</line>
+                <line>That thou, dead corse, again in complete steel</line>
+                <line>Revisit'st thus the glimpses of the moon,</line>
+                <line>Making night hideous; and we fools of nature</line>
+                <line>So horridly to shake our disposition</line>
+                <line>With thoughts beyond the reaches of our souls?</line>
+                <line>Say, why is this? wherefore? what should we do?</line>
+            </speech>
+            <speech id="40">
+                <line>It will not speak; then I will follow it.</line>
+            </speech>
+            <speech id="41">
+                <line>Why, what should be the fear?</line>
+                <line>I do not set my life in a pin's fee;</line>
+                <line>And for my soul, what can it do to that,</line>
+                <line>Being a thing immortal as itself?</line>
+                <line>It waves me forth again: I'll follow it.</line>
+            </speech>
+            <speech id="42">
+                <line>It waves me still.</line>
+                <line>Go on; I'll follow thee.</line>
+            </speech>
+            <speech id="43">
+                <line>Hold off your hands.</line>
+            </speech>
+            <speech id="44">
+                <line>My fate cries out,</line>
+                <line>And makes each petty artery in this body</line>
+                <line>As hardy as the Nemean lion's nerve.</line>
+                <line>Still am I call'd. Unhand me, gentlemen.</line>
+                <line>By heaven, I'll make a ghost of him that lets me!</line>
+                <line>I say, away! Go on; I'll follow thee.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE V. Another part of the platform.">
+            <speech id="45">
+                <line>Where wilt thou lead me? speak; I'll go no further.</line>
+            </speech>
+            <speech id="46">
+                <line>I will.</line>
+            </speech>
+            <speech id="47">
+                <line>Alas, poor ghost!</line>
+            </speech>
+            <speech id="48">
+                <line>Speak; I am bound to hear.</line>
+            </speech>
+            <speech id="49">
+                <line>What?</line>
+            </speech>
+            <speech id="50">
+                <line>O God!</line>
+            </speech>
+            <speech id="51">
+                <line>Murder!</line>
+            </speech>
+            <speech id="52">
+                <line>Haste me to know't, that I, with wings as swift</line>
+                <line>As meditation or the thoughts of love,</line>
+                <line>May sweep to my revenge.</line>
+            </speech>
+            <speech id="53">
+                <line>O my prophetic soul! My uncle!</line>
+            </speech>
+            <speech id="54">
+                <line>O all you host of heaven! O earth! what else?</line>
+                <line>And shall I couple hell? O, fie! Hold, hold, my heart;</line>
+                <line>And you, my sinews, grow not instant old,</line>
+                <line>But bear me stiffly up. Remember thee!</line>
+                <line>Ay, thou poor ghost, while memory holds a seat</line>
+                <line>In this distracted globe. Remember thee!</line>
+                <line>Yea, from the table of my memory</line>
+                <line>I'll wipe away all trivial fond records,</line>
+                <line>All saws of books, all forms, all pressures past,</line>
+                <line>That youth and observation copied there;</line>
+                <line>And thy commandment all alone shall live</line>
+                <line>Within the book and volume of my brain,</line>
+                <line>Unmix'd with baser matter: yes, by heaven!</line>
+                <line>O most pernicious woman!</line>
+                <line>O villain, villain, smiling, damned villain!</line>
+                <line>My tables,--meet it is I set it down,</line>
+                <line>That one may smile, and smile, and be a villain;</line>
+                <line>At least I'm sure it may be so in Denmark:</line>
+                <line>So, uncle, there you are. Now to my word;</line>
+                <line>It is 'Adieu, adieu! remember me.'</line>
+                <line>I have sworn 't.</line>
+            </speech>
+            <speech id="55">
+                <line>So be it!</line>
+            </speech>
+            <speech id="56">
+                <line>Hillo, ho, ho, boy! come, bird, come.</line>
+            </speech>
+            <speech id="57">
+                <line>O, wonderful!</line>
+            </speech>
+            <speech id="58">
+                <line>No; you'll reveal it.</line>
+            </speech>
+            <speech id="59">
+                <line>How say you, then; would heart of man once think it?</line>
+                <line>But you'll be secret?</line>
+            </speech>
+            <speech id="60">
+                <line>There's ne'er a villain dwelling in all Denmark</line>
+                <line>But he's an arrant knave.</line>
+            </speech>
+            <speech id="61">
+                <line>Why, right; you are i' the right;</line>
+                <line>And so, without more circumstance at all,</line>
+                <line>I hold it fit that we shake hands and part:</line>
+                <line>You, as your business and desire shall point you;</line>
+                <line>For every man has business and desire,</line>
+                <line>Such as it is; and for mine own poor part,</line>
+                <line>Look you, I'll go pray.</line>
+            </speech>
+            <speech id="62">
+                <line>I'm sorry they offend you, heartily;</line>
+                <line>Yes, 'faith heartily.</line>
+            </speech>
+            <speech id="63">
+                <line>Yes, by Saint Patrick, but there is, Horatio,</line>
+                <line>And much offence too. Touching this vision here,</line>
+                <line>It is an honest ghost, that let me tell you:</line>
+                <line>For your desire to know what is between us,</line>
+                <line>O'ermaster 't as you may. And now, good friends,</line>
+                <line>As you are friends, scholars and soldiers,</line>
+                <line>Give me one poor request.</line>
+            </speech>
+            <speech id="64">
+                <line>Never make known what you have seen to-night.</line>
+            </speech>
+            <speech id="65">
+                <line>Nay, but swear't.</line>
+            </speech>
+            <speech id="66">
+                <line>Upon my sword.</line>
+            </speech>
+            <speech id="67">
+                <line>Indeed, upon my sword, indeed.</line>
+            </speech>
+            <speech id="68">
+                <line>Ah, ha, boy! say'st thou so? art thou there,</line>
+                <line>truepenny?</line>
+                <line>Come on--you hear this fellow in the cellarage--</line>
+                <line>Consent to swear.</line>
+            </speech>
+            <speech id="69">
+                <line>Never to speak of this that you have seen,</line>
+                <line>Swear by my sword.</line>
+            </speech>
+            <speech id="70">
+                <line>Hic et ubique? then we'll shift our ground.</line>
+                <line>Come hither, gentlemen,</line>
+                <line>And lay your hands again upon my sword:</line>
+                <line>Never to speak of this that you have heard,</line>
+                <line>Swear by my sword.</line>
+            </speech>
+            <speech id="71">
+                <line>Well said, old mole! canst work i' the earth so fast?</line>
+                <line>A worthy pioner! Once more remove, good friends.</line>
+            </speech>
+            <speech id="72">
+                <line>And therefore as a stranger give it welcome.</line>
+                <line>There are more things in heaven and earth, Horatio,</line>
+                <line>Than are dreamt of in your philosophy. But come;</line>
+                <line>Here, as before, never, so help you mercy,</line>
+                <line>How strange or odd soe'er I bear myself,</line>
+                <line>As I perchance hereafter shall think meet</line>
+                <line>To put an antic disposition on,</line>
+                <line>That you, at such times seeing me, never shall,</line>
+                <line>With arms encumber'd thus, or this headshake,</line>
+                <line>Or by pronouncing of some doubtful phrase,</line>
+                <line>As 'Well, well, we know,' or 'We could, an if we would,'</line>
+                <line>Or 'If we list to speak,' or 'There be, an if they might,'</line>
+                <line>Or such ambiguous giving out, to note</line>
+                <line>That you know aught of me: this not to do,</line>
+                <line>So grace and mercy at your most need help you, Swear.</line>
+            </speech>
+            <speech id="73">
+                <line>Rest, rest, perturbed spirit!</line>
+                <line>So, gentlemen,</line>
+                <line>With all my love I do commend me to you:</line>
+                <line>And what so poor a man as Hamlet is</line>
+                <line>May do, to express his love and friending to you,</line>
+                <line>God willing, shall not lack. Let us go in together;</line>
+                <line>And still your fingers on your lips, I pray.</line>
+                <line>The time is out of joint: O cursed spite,</line>
+                <line>That ever I was born to set it right!</line>
+                <line>Nay, come, let's go together.</line>
+            </speech>
+        </scene>
+    </act>
+    <act title="ACT II">
+        <scene title="SCENE I. A room in POLONIUS' house."/>
+        <scene title="SCENE II. A room in the castle.">
+            <speech id="74">
+                <line>Well, God-a-mercy.</line>
+            </speech>
+            <speech id="75">
+                <line>Excellent well; you are a fishmonger.</line>
+            </speech>
+            <speech id="76">
+                <line>Then I would you were so honest a man.</line>
+            </speech>
+            <speech id="77">
+                <line>Ay, sir; to be honest, as this world goes, is to be</line>
+                <line>one man picked out of ten thousand.</line>
+            </speech>
+            <speech id="78">
+                <line>For if the sun breed maggots in a dead dog, being a</line>
+                <line>god kissing carrion,--Have you a daughter?</line>
+            </speech>
+            <speech id="79">
+                <line>Let her not walk i' the sun: conception is a</line>
+                <line>blessing: but not as your daughter may conceive.</line>
+                <line>Friend, look to 't.</line>
+            </speech>
+            <speech id="80">
+                <line>Words, words, words.</line>
+            </speech>
+            <speech id="81">
+                <line>Between who?</line>
+            </speech>
+            <speech id="82">
+                <line>Slanders, sir: for the satirical rogue says here</line>
+                <line>that old men have grey beards, that their faces are</line>
+                <line>wrinkled, their eyes purging thick amber and</line>
+                <line>plum-tree gum and that they have a plentiful lack of</line>
+                <line>wit, together with most weak hams: all which, sir,</line>
+                <line>though I most powerfully and potently believe, yet</line>
+                <line>I hold it not honesty to have it thus set down, for</line>
+                <line>yourself, sir, should be old as I am, if like a crab</line>
+                <line>you could go backward.</line>
+            </speech>
+            <speech id="83">
+                <line>Into my grave.</line>
+            </speech>
+            <speech id="84">
+                <line>You cannot, sir, take from me any thing that I will</line>
+                <line>more willingly part withal: except my life, except</line>
+                <line>my life, except my life.</line>
+            </speech>
+            <speech id="85">
+                <line>These tedious old fools!</line>
+            </speech>
+            <speech id="86">
+                <line>My excellent good friends! How dost thou,</line>
+                <line>Guildenstern? Ah, Rosencrantz! Good lads, how do ye both?</line>
+            </speech>
+            <speech id="87">
+                <line>Nor the soles of her shoe?</line>
+            </speech>
+            <speech id="88">
+                <line>Then you live about her waist, or in the middle of</line>
+                <line>her favours?</line>
+            </speech>
+            <speech id="89">
+                <line>In the secret parts of fortune? O, most true; she</line>
+                <line>is a strumpet. What's the news?</line>
+            </speech>
+            <speech id="90">
+                <line>Then is doomsday near: but your news is not true.</line>
+                <line>Let me question more in particular: what have you,</line>
+                <line>my good friends, deserved at the hands of fortune,</line>
+                <line>that she sends you to prison hither?</line>
+            </speech>
+            <speech id="91">
+                <line>Denmark's a prison.</line>
+            </speech>
+            <speech id="92">
+                <line>A goodly one; in which there are many confines,</line>
+                <line>wards and dungeons, Denmark being one o' the worst.</line>
+            </speech>
+            <speech id="93">
+                <line>Why, then, 'tis none to you; for there is nothing</line>
+                <line>either good or bad, but thinking makes it so: to me</line>
+                <line>it is a prison.</line>
+            </speech>
+            <speech id="94">
+                <line>O God, I could be bounded in a nut shell and count</line>
+                <line>myself a king of infinite space, were it not that I</line>
+                <line>have bad dreams.</line>
+            </speech>
+            <speech id="95">
+                <line>A dream itself is but a shadow.</line>
+            </speech>
+            <speech id="96">
+                <line>Then are our beggars bodies, and our monarchs and</line>
+                <line>outstretched heroes the beggars' shadows. Shall we</line>
+                <line>to the court? for, by my fay, I cannot reason.</line>
+            </speech>
+            <speech id="97">
+                <line>No such matter: I will not sort you with the rest</line>
+                <line>of my servants, for, to speak to you like an honest</line>
+                <line>man, I am most dreadfully attended. But, in the</line>
+                <line>beaten way of friendship, what make you at Elsinore?</line>
+            </speech>
+            <speech id="98">
+                <line>Beggar that I am, I am even poor in thanks; but I</line>
+                <line>thank you: and sure, dear friends, my thanks are</line>
+                <line>too dear a halfpenny. Were you not sent for? Is it</line>
+                <line>your own inclining? Is it a free visitation? Come,</line>
+                <line>deal justly with me: come, come; nay, speak.</line>
+            </speech>
+            <speech id="99">
+                <line>Why, any thing, but to the purpose. You were sent</line>
+                <line>for; and there is a kind of confession in your looks</line>
+                <line>which your modesties have not craft enough to colour:</line>
+                <line>I know the good king and queen have sent for you.</line>
+            </speech>
+            <speech id="100">
+                <line>That you must teach me. But let me conjure you, by</line>
+                <line>the rights of our fellowship, by the consonancy of</line>
+                <line>our youth, by the obligation of our ever-preserved</line>
+                <line>love, and by what more dear a better proposer could</line>
+                <line>charge you withal, be even and direct with me,</line>
+                <line>whether you were sent for, or no?</line>
+            </speech>
+            <speech id="101">
+                <line>
+                    Aside
+                    Nay, then, I have an eye of you.--If you
+                </line>
+                <line>love me, hold not off.</line>
+            </speech>
+            <speech id="102">
+                <line>I will tell you why; so shall my anticipation</line>
+                <line>prevent your discovery, and your secrecy to the king</line>
+                <line>and queen moult no feather. I have of late--but</line>
+                <line>wherefore I know not--lost all my mirth, forgone all</line>
+                <line>custom of exercises; and indeed it goes so heavily</line>
+                <line>with my disposition that this goodly frame, the</line>
+                <line>earth, seems to me a sterile promontory, this most</line>
+                <line>excellent canopy, the air, look you, this brave</line>
+                <line>o'erhanging firmament, this majestical roof fretted</line>
+                <line>with golden fire, why, it appears no other thing to</line>
+                <line>me than a foul and pestilent congregation of vapours.</line>
+                <line>What a piece of work is a man! how noble in reason!</line>
+                <line>how infinite in faculty! in form and moving how</line>
+                <line>express and admirable! in action how like an angel!</line>
+                <line>in apprehension how like a god! the beauty of the</line>
+                <line>world! the paragon of animals! And yet, to me,</line>
+                <line>what is this quintessence of dust? man delights not</line>
+                <line>me: no, nor woman neither, though by your smiling</line>
+                <line>you seem to say so.</line>
+            </speech>
+            <speech id="103">
+                <line>Why did you laugh then, when I said 'man delights not me'?</line>
+            </speech>
+            <speech id="104">
+                <line>He that plays the king shall be welcome; his majesty</line>
+                <line>shall have tribute of me; the adventurous knight</line>
+                <line>shall use his foil and target; the lover shall not</line>
+                <line>sigh gratis; the humourous man shall end his part</line>
+                <line>in peace; the clown shall make those laugh whose</line>
+                <line>lungs are tickled o' the sere; and the lady shall</line>
+                <line>say her mind freely, or the blank verse shall halt</line>
+                <line>for't. What players are they?</line>
+            </speech>
+            <speech id="105">
+                <line>How chances it they travel? their residence, both</line>
+                <line>in reputation and profit, was better both ways.</line>
+            </speech>
+            <speech id="106">
+                <line>Do they hold the same estimation they did when I was</line>
+                <line>in the city? are they so followed?</line>
+            </speech>
+            <speech id="107">
+                <line>How comes it? do they grow rusty?</line>
+            </speech>
+            <speech id="108">
+                <line>What, are they children? who maintains 'em? how are</line>
+                <line>they escoted? Will they pursue the quality no</line>
+                <line>longer than they can sing? will they not say</line>
+                <line>afterwards, if they should grow themselves to common</line>
+                <line>players--as it is most like, if their means are no</line>
+                <line>better--their writers do them wrong, to make them</line>
+                <line>exclaim against their own succession?</line>
+            </speech>
+            <speech id="109">
+                <line>Is't possible?</line>
+            </speech>
+            <speech id="110">
+                <line>Do the boys carry it away?</line>
+            </speech>
+            <speech id="111">
+                <line>It is not very strange; for mine uncle is king of</line>
+                <line>Denmark, and those that would make mows at him while</line>
+                <line>my father lived, give twenty, forty, fifty, an</line>
+                <line>hundred ducats a-piece for his picture in little.</line>
+                <line>'Sblood, there is something in this more than</line>
+                <line>natural, if philosophy could find it out.</line>
+            </speech>
+            <speech id="112">
+                <line>Gentlemen, you are welcome to Elsinore. Your hands,</line>
+                <line>come then: the appurtenance of welcome is fashion</line>
+                <line>and ceremony: let me comply with you in this garb,</line>
+                <line>lest my extent to the players, which, I tell you,</line>
+                <line>must show fairly outward, should more appear like</line>
+                <line>entertainment than yours. You are welcome: but my</line>
+                <line>uncle-father and aunt-mother are deceived.</line>
+            </speech>
+            <speech id="113">
+                <line>I am but mad north-north-west: when the wind is</line>
+                <line>southerly I know a hawk from a handsaw.</line>
+            </speech>
+            <speech id="114">
+                <line>Hark you, Guildenstern; and you too: at each ear a</line>
+                <line>hearer: that great baby you see there is not yet</line>
+                <line>out of his swaddling-clouts.</line>
+            </speech>
+            <speech id="115">
+                <line>I will prophesy he comes to tell me of the players;</line>
+                <line>mark it. You say right, sir: o' Monday morning;</line>
+                <line>'twas so indeed.</line>
+            </speech>
+            <speech id="116">
+                <line>My lord, I have news to tell you.</line>
+                <line>When Roscius was an actor in Rome,--</line>
+            </speech>
+            <speech id="117">
+                <line>Buz, buz!</line>
+            </speech>
+            <speech id="118">
+                <line>Then came each actor on his ass,--</line>
+            </speech>
+            <speech id="119">
+                <line>O Jephthah, judge of Israel, what a treasure hadst thou!</line>
+            </speech>
+            <speech id="120">
+                <line>Why,</line>
+                <line>'One fair daughter and no more,</line>
+                <line>The which he loved passing well.'</line>
+            </speech>
+            <speech id="121">
+                <line>Am I not i' the right, old Jephthah?</line>
+            </speech>
+            <speech id="122">
+                <line>Nay, that follows not.</line>
+            </speech>
+            <speech id="123">
+                <line>Why,</line>
+                <line>'As by lot, God wot,'</line>
+                <line>and then, you know,</line>
+                <line>'It came to pass, as most like it was,'--</line>
+                <line>the first row of the pious chanson will show you</line>
+                <line>more; for look, where my abridgement comes.</line>
+                <line>You are welcome, masters; welcome, all. I am glad</line>
+                <line>to see thee well. Welcome, good friends. O, my old</line>
+                <line>friend! thy face is valenced since I saw thee last:</line>
+                <line>comest thou to beard me in Denmark? What, my young</line>
+                <line>lady and mistress! By'r lady, your ladyship is</line>
+                <line>nearer to heaven than when I saw you last, by the</line>
+                <line>altitude of a chopine. Pray God, your voice, like</line>
+                <line>apiece of uncurrent gold, be not cracked within the</line>
+                <line>ring. Masters, you are all welcome. We'll e'en</line>
+                <line>to't like French falconers, fly at any thing we see:</line>
+                <line>we'll have a speech straight: come, give us a taste</line>
+                <line>of your quality; come, a passionate speech.</line>
+            </speech>
+            <speech id="124">
+                <line>I heard thee speak me a speech once, but it was</line>
+                <line>never acted; or, if it was, not above once; for the</line>
+                <line>play, I remember, pleased not the million; 'twas</line>
+                <line>caviare to the general: but it was--as I received</line>
+                <line>it, and others, whose judgments in such matters</line>
+                <line>cried in the top of mine--an excellent play, well</line>
+                <line>digested in the scenes, set down with as much</line>
+                <line>modesty as cunning. I remember, one said there</line>
+                <line>were no sallets in the lines to make the matter</line>
+                <line>savoury, nor no matter in the phrase that might</line>
+                <line>indict the author of affectation; but called it an</line>
+                <line>honest method, as wholesome as sweet, and by very</line>
+                <line>much more handsome than fine. One speech in it I</line>
+                <line>chiefly loved: 'twas Aeneas' tale to Dido; and</line>
+                <line>thereabout of it especially, where he speaks of</line>
+                <line>Priam's slaughter: if it live in your memory, begin</line>
+                <line>at this line: let me see, let me see--</line>
+                <line>'The rugged Pyrrhus, like the Hyrcanian beast,'--</line>
+                <line>it is not so:--it begins with Pyrrhus:--</line>
+                <line>'The rugged Pyrrhus, he whose sable arms,</line>
+                <line>Black as his purpose, did the night resemble</line>
+                <line>When he lay couched in the ominous horse,</line>
+                <line>Hath now this dread and black complexion smear'd</line>
+                <line>With heraldry more dismal; head to foot</line>
+                <line>Now is he total gules; horridly trick'd</line>
+                <line>With blood of fathers, mothers, daughters, sons,</line>
+                <line>Baked and impasted with the parching streets,</line>
+                <line>That lend a tyrannous and damned light</line>
+                <line>To their lord's murder: roasted in wrath and fire,</line>
+                <line>And thus o'er-sized with coagulate gore,</line>
+                <line>With eyes like carbuncles, the hellish Pyrrhus</line>
+                <line>Old grandsire Priam seeks.'</line>
+                <line>So, proceed you.</line>
+            </speech>
+            <speech id="125">
+                <line>It shall to the barber's, with your beard. Prithee,</line>
+                <line>say on: he's for a jig or a tale of bawdry, or he</line>
+                <line>sleeps: say on: come to Hecuba.</line>
+            </speech>
+            <speech id="126">
+                <line>'The mobled queen?'</line>
+            </speech>
+            <speech id="127">
+                <line>'Tis well: I'll have thee speak out the rest soon.</line>
+                <line>Good my lord, will you see the players well</line>
+                <line>bestowed? Do you hear, let them be well used; for</line>
+                <line>they are the abstract and brief chronicles of the</line>
+                <line>time: after your death you were better have a bad</line>
+                <line>epitaph than their ill report while you live.</line>
+            </speech>
+            <speech id="128">
+                <line>God's bodykins, man, much better: use every man</line>
+                <line>after his desert, and who should 'scape whipping?</line>
+                <line>Use them after your own honour and dignity: the less</line>
+                <line>they deserve, the more merit is in your bounty.</line>
+                <line>Take them in.</line>
+            </speech>
+            <speech id="129">
+                <line>Follow him, friends: we'll hear a play to-morrow.</line>
+                <line>Dost thou hear me, old friend; can you play the</line>
+                <line>Murder of Gonzago?</line>
+            </speech>
+            <speech id="130">
+                <line>We'll ha't to-morrow night. You could, for a need,</line>
+                <line>study a speech of some dozen or sixteen lines, which</line>
+                <line>I would set down and insert in't, could you not?</line>
+            </speech>
+            <speech id="131">
+                <line>Very well. Follow that lord; and look you mock him</line>
+                <line>not.</line>
+                <line>My good friends, I'll leave you till night: you are</line>
+                <line>welcome to Elsinore.</line>
+            </speech>
+            <speech id="132">
+                <line>Ay, so, God be wi' ye;</line>
+                <line>Now I am alone.</line>
+                <line>O, what a rogue and peasant slave am I!</line>
+                <line>Is it not monstrous that this player here,</line>
+                <line>But in a fiction, in a dream of passion,</line>
+                <line>Could force his soul so to his own conceit</line>
+                <line>That from her working all his visage wann'd,</line>
+                <line>Tears in his eyes, distraction in's aspect,</line>
+                <line>A broken voice, and his whole function suiting</line>
+                <line>With forms to his conceit? and all for nothing!</line>
+                <line>For Hecuba!</line>
+                <line>What's Hecuba to him, or he to Hecuba,</line>
+                <line>That he should weep for her? What would he do,</line>
+                <line>Had he the motive and the cue for passion</line>
+                <line>That I have? He would drown the stage with tears</line>
+                <line>And cleave the general ear with horrid speech,</line>
+                <line>Make mad the guilty and appal the free,</line>
+                <line>Confound the ignorant, and amaze indeed</line>
+                <line>The very faculties of eyes and ears. Yet I,</line>
+                <line>A dull and muddy-mettled rascal, peak,</line>
+                <line>Like John-a-dreams, unpregnant of my cause,</line>
+                <line>And can say nothing; no, not for a king,</line>
+                <line>Upon whose property and most dear life</line>
+                <line>A damn'd defeat was made. Am I a coward?</line>
+                <line>Who calls me villain? breaks my pate across?</line>
+                <line>Plucks off my beard, and blows it in my face?</line>
+                <line>Tweaks me by the nose? gives me the lie i' the throat,</line>
+                <line>As deep as to the lungs? who does me this?</line>
+                <line>Ha!</line>
+                <line>'Swounds, I should take it: for it cannot be</line>
+                <line>But I am pigeon-liver'd and lack gall</line>
+                <line>To make oppression bitter, or ere this</line>
+                <line>I should have fatted all the region kites</line>
+                <line>With this slave's offal: bloody, bawdy villain!</line>
+                <line>Remorseless, treacherous, lecherous, kindless villain!</line>
+                <line>O, vengeance!</line>
+                <line>Why, what an ass am I! This is most brave,</line>
+                <line>That I, the son of a dear father murder'd,</line>
+                <line>Prompted to my revenge by heaven and hell,</line>
+                <line>Must, like a whore, unpack my heart with words,</line>
+                <line>And fall a-cursing, like a very drab,</line>
+                <line>A scullion!</line>
+                <line>Fie upon't! foh! About, my brain! I have heard</line>
+                <line>That guilty creatures sitting at a play</line>
+                <line>Have by the very cunning of the scene</line>
+                <line>Been struck so to the soul that presently</line>
+                <line>They have proclaim'd their malefactions;</line>
+                <line>For murder, though it have no tongue, will speak</line>
+                <line>With most miraculous organ. I'll have these players</line>
+                <line>Play something like the murder of my father</line>
+                <line>Before mine uncle: I'll observe his looks;</line>
+                <line>I'll tent him to the quick: if he but blench,</line>
+                <line>I know my course. The spirit that I have seen</line>
+                <line>May be the devil: and the devil hath power</line>
+                <line>To assume a pleasing shape; yea, and perhaps</line>
+                <line>Out of my weakness and my melancholy,</line>
+                <line>As he is very potent with such spirits,</line>
+                <line>Abuses me to damn me: I'll have grounds</line>
+                <line>More relative than this: the play 's the thing</line>
+                <line>Wherein I'll catch the conscience of the king.</line>
+            </speech>
+        </scene>
+    </act>
+    <act title="ACT III">
+        <scene title="SCENE I. A room in the castle.">
+            <speech id="133">
+                <line>To be, or not to be: that is the question:</line>
+                <line>Whether 'tis nobler in the mind to suffer</line>
+                <line>The slings and arrows of outrageous fortune,</line>
+                <line>Or to take arms against a sea of troubles,</line>
+                <line>And by opposing end them? To die: to sleep;</line>
+                <line>No more; and by a sleep to say we end</line>
+                <line>The heart-ache and the thousand natural shocks</line>
+                <line>That flesh is heir to, 'tis a consummation</line>
+                <line>Devoutly to be wish'd. To die, to sleep;</line>
+                <line>To sleep: perchance to dream: ay, there's the rub;</line>
+                <line>For in that sleep of death what dreams may come</line>
+                <line>When we have shuffled off this mortal coil,</line>
+                <line>Must give us pause: there's the respect</line>
+                <line>That makes calamity of so long life;</line>
+                <line>For who would bear the whips and scorns of time,</line>
+                <line>The oppressor's wrong, the proud man's contumely,</line>
+                <line>The pangs of despised love, the law's delay,</line>
+                <line>The insolence of office and the spurns</line>
+                <line>That patient merit of the unworthy takes,</line>
+                <line>When he himself might his quietus make</line>
+                <line>With a bare bodkin? who would fardels bear,</line>
+                <line>To grunt and sweat under a weary life,</line>
+                <line>But that the dread of something after death,</line>
+                <line>The undiscover'd country from whose bourn</line>
+                <line>No traveller returns, puzzles the will</line>
+                <line>And makes us rather bear those ills we have</line>
+                <line>Than fly to others that we know not of?</line>
+                <line>Thus conscience does make cowards of us all;</line>
+                <line>And thus the native hue of resolution</line>
+                <line>Is sicklied o'er with the pale cast of thought,</line>
+                <line>And enterprises of great pith and moment</line>
+                <line>With this regard their currents turn awry,</line>
+                <line>And lose the name of action.--Soft you now!</line>
+                <line>The fair Ophelia! Nymph, in thy orisons</line>
+                <line>Be all my sins remember'd.</line>
+            </speech>
+            <speech id="134">
+                <line>I humbly thank you; well, well, well.</line>
+            </speech>
+            <speech id="135">
+                <line>No, not I;</line>
+                <line>I never gave you aught.</line>
+            </speech>
+            <speech id="136">
+                <line>Ha, ha! are you honest?</line>
+            </speech>
+            <speech id="137">
+                <line>Are you fair?</line>
+            </speech>
+            <speech id="138">
+                <line>That if you be honest and fair, your honesty should</line>
+                <line>admit no discourse to your beauty.</line>
+            </speech>
+            <speech id="139">
+                <line>Ay, truly; for the power of beauty will sooner</line>
+                <line>transform honesty from what it is to a bawd than the</line>
+                <line>force of honesty can translate beauty into his</line>
+                <line>likeness: this was sometime a paradox, but now the</line>
+                <line>time gives it proof. I did love you once.</line>
+            </speech>
+            <speech id="140">
+                <line>You should not have believed me; for virtue cannot</line>
+                <line>so inoculate our old stock but we shall relish of</line>
+                <line>it: I loved you not.</line>
+            </speech>
+            <speech id="141">
+                <line>Get thee to a nunnery: why wouldst thou be a</line>
+                <line>breeder of sinners? I am myself indifferent honest;</line>
+                <line>but yet I could accuse me of such things that it</line>
+                <line>were better my mother had not borne me: I am very</line>
+                <line>proud, revengeful, ambitious, with more offences at</line>
+                <line>my beck than I have thoughts to put them in,</line>
+                <line>imagination to give them shape, or time to act them</line>
+                <line>in. What should such fellows as I do crawling</line>
+                <line>between earth and heaven? We are arrant knaves,</line>
+                <line>all; believe none of us. Go thy ways to a nunnery.</line>
+                <line>Where's your father?</line>
+            </speech>
+            <speech id="142">
+                <line>Let the doors be shut upon him, that he may play the</line>
+                <line>fool no where but in's own house. Farewell.</line>
+            </speech>
+            <speech id="143">
+                <line>If thou dost marry, I'll give thee this plague for</line>
+                <line>thy dowry: be thou as chaste as ice, as pure as</line>
+                <line>snow, thou shalt not escape calumny. Get thee to a</line>
+                <line>nunnery, go: farewell. Or, if thou wilt needs</line>
+                <line>marry, marry a fool; for wise men know well enough</line>
+                <line>what monsters you make of them. To a nunnery, go,</line>
+                <line>and quickly too. Farewell.</line>
+            </speech>
+            <speech id="144">
+                <line>I have heard of your paintings too, well enough; God</line>
+                <line>has given you one face, and you make yourselves</line>
+                <line>another: you jig, you amble, and you lisp, and</line>
+                <line>nick-name God's creatures, and make your wantonness</line>
+                <line>your ignorance. Go to, I'll no more on't; it hath</line>
+                <line>made me mad. I say, we will have no more marriages:</line>
+                <line>those that are married already, all but one, shall</line>
+                <line>live; the rest shall keep as they are. To a</line>
+                <line>nunnery, go.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE II. A hall in the castle.">
+            <speech id="145">
+                <line>Speak the speech, I pray you, as I pronounced it to</line>
+                <line>you, trippingly on the tongue: but if you mouth it,</line>
+                <line>as many of your players do, I had as lief the</line>
+                <line>town-crier spoke my lines. Nor do not saw the air</line>
+                <line>too much with your hand, thus, but use all gently;</line>
+                <line>for in the very torrent, tempest, and, as I may say,</line>
+                <line>the whirlwind of passion, you must acquire and beget</line>
+                <line>a temperance that may give it smoothness. O, it</line>
+                <line>offends me to the soul to hear a robustious</line>
+                <line>periwig-pated fellow tear a passion to tatters, to</line>
+                <line>very rags, to split the ears of the groundlings, who</line>
+                <line>for the most part are capable of nothing but</line>
+                <line>inexplicable dumbshows and noise: I would have such</line>
+                <line>a fellow whipped for o'erdoing Termagant; it</line>
+                <line>out-herods Herod: pray you, avoid it.</line>
+            </speech>
+            <speech id="146">
+                <line>Be not too tame neither, but let your own discretion</line>
+                <line>be your tutor: suit the action to the word, the</line>
+                <line>word to the action; with this special o'erstep not</line>
+                <line>the modesty of nature: for any thing so overdone is</line>
+                <line>from the purpose of playing, whose end, both at the</line>
+                <line>first and now, was and is, to hold, as 'twere, the</line>
+                <line>mirror up to nature; to show virtue her own feature,</line>
+                <line>scorn her own image, and the very age and body of</line>
+                <line>the time his form and pressure. Now this overdone,</line>
+                <line>or come tardy off, though it make the unskilful</line>
+                <line>laugh, cannot but make the judicious grieve; the</line>
+                <line>censure of the which one must in your allowance</line>
+                <line>o'erweigh a whole theatre of others. O, there be</line>
+                <line>players that I have seen play, and heard others</line>
+                <line>praise, and that highly, not to speak it profanely,</line>
+                <line>that, neither having the accent of Christians nor</line>
+                <line>the gait of Christian, pagan, nor man, have so</line>
+                <line>strutted and bellowed that I have thought some of</line>
+                <line>nature's journeymen had made men and not made them</line>
+                <line>well, they imitated humanity so abominably.</line>
+            </speech>
+            <speech id="147">
+                <line>O, reform it altogether. And let those that play</line>
+                <line>your clowns speak no more than is set down for them;</line>
+                <line>for there be of them that will themselves laugh, to</line>
+                <line>set on some quantity of barren spectators to laugh</line>
+                <line>too; though, in the mean time, some necessary</line>
+                <line>question of the play be then to be considered:</line>
+                <line>that's villanous, and shows a most pitiful ambition</line>
+                <line>in the fool that uses it. Go, make you ready.</line>
+                <line>How now, my lord! I will the king hear this piece of work?</line>
+            </speech>
+            <speech id="148">
+                <line>Bid the players make haste.</line>
+                <line>Will you two help to hasten them?</line>
+            </speech>
+            <speech id="149">
+                <line>What ho! Horatio!</line>
+            </speech>
+            <speech id="150">
+                <line>Horatio, thou art e'en as just a man</line>
+                <line>As e'er my conversation coped withal.</line>
+            </speech>
+            <speech id="151">
+                <line>Nay, do not think I flatter;</line>
+                <line>For what advancement may I hope from thee</line>
+                <line>That no revenue hast but thy good spirits,</line>
+                <line>To feed and clothe thee? Why should the poor be flatter'd?</line>
+                <line>No, let the candied tongue lick absurd pomp,</line>
+                <line>And crook the pregnant hinges of the knee</line>
+                <line>Where thrift may follow fawning. Dost thou hear?</line>
+                <line>Since my dear soul was mistress of her choice</line>
+                <line>And could of men distinguish, her election</line>
+                <line>Hath seal'd thee for herself; for thou hast been</line>
+                <line>As one, in suffering all, that suffers nothing,</line>
+                <line>A man that fortune's buffets and rewards</line>
+                <line>Hast ta'en with equal thanks: and blest are those</line>
+                <line>Whose blood and judgment are so well commingled,</line>
+                <line>That they are not a pipe for fortune's finger</line>
+                <line>To sound what stop she please. Give me that man</line>
+                <line>That is not passion's slave, and I will wear him</line>
+                <line>In my heart's core, ay, in my heart of heart,</line>
+                <line>As I do thee.--Something too much of this.--</line>
+                <line>There is a play to-night before the king;</line>
+                <line>One scene of it comes near the circumstance</line>
+                <line>Which I have told thee of my father's death:</line>
+                <line>I prithee, when thou seest that act afoot,</line>
+                <line>Even with the very comment of thy soul</line>
+                <line>Observe mine uncle: if his occulted guilt</line>
+                <line>Do not itself unkennel in one speech,</line>
+                <line>It is a damned ghost that we have seen,</line>
+                <line>And my imaginations are as foul</line>
+                <line>As Vulcan's stithy. Give him heedful note;</line>
+                <line>For I mine eyes will rivet to his face,</line>
+                <line>And after we will both our judgments join</line>
+                <line>In censure of his seeming.</line>
+            </speech>
+            <speech id="152">
+                <line>They are coming to the play; I must be idle:</line>
+                <line>Get you a place.</line>
+            </speech>
+            <speech id="153">
+                <line>Excellent, i' faith; of the chameleon's dish: I eat</line>
+                <line>the air, promise-crammed: you cannot feed capons so.</line>
+            </speech>
+            <speech id="154">
+                <line>No, nor mine now.</line>
+                <line>My lord, you played once i' the university, you say?</line>
+            </speech>
+            <speech id="155">
+                <line>What did you enact?</line>
+            </speech>
+            <speech id="156">
+                <line>It was a brute part of him to kill so capital a calf</line>
+                <line>there. Be the players ready?</line>
+            </speech>
+            <speech id="157">
+                <line>No, good mother, here's metal more attractive.</line>
+            </speech>
+            <speech id="158">
+                <line>Lady, shall I lie in your lap?</line>
+            </speech>
+            <speech id="159">
+                <line>I mean, my head upon your lap?</line>
+            </speech>
+            <speech id="160">
+                <line>Do you think I meant country matters?</line>
+            </speech>
+            <speech id="161">
+                <line>That's a fair thought to lie between maids' legs.</line>
+            </speech>
+            <speech id="162">
+                <line>Nothing.</line>
+            </speech>
+            <speech id="163">
+                <line>Who, I?</line>
+            </speech>
+            <speech id="164">
+                <line>O God, your only jig-maker. What should a man do</line>
+                <line>but be merry? for, look you, how cheerfully my</line>
+                <line>mother looks, and my father died within these two hours.</line>
+            </speech>
+            <speech id="165">
+                <line>So long? Nay then, let the devil wear black, for</line>
+                <line>I'll have a suit of sables. O heavens! die two</line>
+                <line>months ago, and not forgotten yet? Then there's</line>
+                <line>hope a great man's memory may outlive his life half</line>
+                <line>a year: but, by'r lady, he must build churches,</line>
+                <line>then; or else shall he suffer not thinking on, with</line>
+                <line>the hobby-horse, whose epitaph is 'For, O, for, O,</line>
+                <line>the hobby-horse is forgot.'</line>
+            </speech>
+            <speech id="166">
+                <line>Marry, this is miching mallecho; it means mischief.</line>
+            </speech>
+            <speech id="167">
+                <line>We shall know by this fellow: the players cannot</line>
+                <line>keep counsel; they'll tell all.</line>
+            </speech>
+            <speech id="168">
+                <line>Ay, or any show that you'll show him: be not you</line>
+                <line>ashamed to show, he'll not shame to tell you what it means.</line>
+            </speech>
+            <speech id="169">
+                <line>Is this a prologue, or the posy of a ring?</line>
+            </speech>
+            <speech id="170">
+                <line>As woman's love.</line>
+            </speech>
+            <speech id="171">
+                <line>
+                    Aside
+                    Wormwood, wormwood.
+                </line>
+            </speech>
+            <speech id="172">
+                <line>If she should break it now!</line>
+            </speech>
+            <speech id="173">
+                <line>Madam, how like you this play?</line>
+            </speech>
+            <speech id="174">
+                <line>O, but she'll keep her word.</line>
+            </speech>
+            <speech id="175">
+                <line>No, no, they do but jest, poison in jest; no offence</line>
+                <line>i' the world.</line>
+            </speech>
+            <speech id="176">
+                <line>The Mouse-trap. Marry, how? Tropically. This play</line>
+                <line>is the image of a murder done in Vienna: Gonzago is</line>
+                <line>the duke's name; his wife, Baptista: you shall see</line>
+                <line>anon; 'tis a knavish piece of work: but what o'</line>
+                <line>that? your majesty and we that have free souls, it</line>
+                <line>touches us not: let the galled jade wince, our</line>
+                <line>withers are unwrung.</line>
+                <line>This is one Lucianus, nephew to the king.</line>
+            </speech>
+            <speech id="177">
+                <line>I could interpret between you and your love, if I</line>
+                <line>could see the puppets dallying.</line>
+            </speech>
+            <speech id="178">
+                <line>It would cost you a groaning to take off my edge.</line>
+            </speech>
+            <speech id="179">
+                <line>So you must take your husbands. Begin, murderer;</line>
+                <line>pox, leave thy damnable faces, and begin. Come:</line>
+                <line>'the croaking raven doth bellow for revenge.'</line>
+            </speech>
+            <speech id="180">
+                <line>He poisons him i' the garden for's estate. His</line>
+                <line>name's Gonzago: the story is extant, and writ in</line>
+                <line>choice Italian: you shall see anon how the murderer</line>
+                <line>gets the love of Gonzago's wife.</line>
+            </speech>
+            <speech id="181">
+                <line>What, frighted with false fire!</line>
+            </speech>
+            <speech id="182">
+                <line>Why, let the stricken deer go weep,</line>
+                <line>The hart ungalled play;</line>
+                <line>For some must watch, while some must sleep:</line>
+                <line>So runs the world away.</line>
+                <line>Would not this, sir, and a forest of feathers-- if</line>
+                <line>the rest of my fortunes turn Turk with me--with two</line>
+                <line>Provincial roses on my razed shoes, get me a</line>
+                <line>fellowship in a cry of players, sir?</line>
+            </speech>
+            <speech id="183">
+                <line>A whole one, I.</line>
+                <line>For thou dost know, O Damon dear,</line>
+                <line>This realm dismantled was</line>
+                <line>Of Jove himself; and now reigns here</line>
+                <line>A very, very--pajock.</line>
+            </speech>
+            <speech id="184">
+                <line>O good Horatio, I'll take the ghost's word for a</line>
+                <line>thousand pound. Didst perceive?</line>
+            </speech>
+            <speech id="185">
+                <line>Upon the talk of the poisoning?</line>
+            </speech>
+            <speech id="186">
+                <line>Ah, ha! Come, some music! come, the recorders!</line>
+                <line>For if the king like not the comedy,</line>
+                <line>Why then, belike, he likes it not, perdy.</line>
+                <line>Come, some music!</line>
+            </speech>
+            <speech id="187">
+                <line>Sir, a whole history.</line>
+            </speech>
+            <speech id="188">
+                <line>Ay, sir, what of him?</line>
+            </speech>
+            <speech id="189">
+                <line>With drink, sir?</line>
+            </speech>
+            <speech id="190">
+                <line>Your wisdom should show itself more richer to</line>
+                <line>signify this to his doctor; for, for me to put him</line>
+                <line>to his purgation would perhaps plunge him into far</line>
+                <line>more choler.</line>
+            </speech>
+            <speech id="191">
+                <line>I am tame, sir: pronounce.</line>
+            </speech>
+            <speech id="192">
+                <line>You are welcome.</line>
+            </speech>
+            <speech id="193">
+                <line>Sir, I cannot.</line>
+            </speech>
+            <speech id="194">
+                <line>Make you a wholesome answer; my wit's diseased: but,</line>
+                <line>sir, such answer as I can make, you shall command;</line>
+                <line>or, rather, as you say, my mother: therefore no</line>
+                <line>more, but to the matter: my mother, you say,--</line>
+            </speech>
+            <speech id="195">
+                <line>O wonderful son, that can so astonish a mother! But</line>
+                <line>is there no sequel at the heels of this mother's</line>
+                <line>admiration? Impart.</line>
+            </speech>
+            <speech id="196">
+                <line>We shall obey, were she ten times our mother. Have</line>
+                <line>you any further trade with us?</line>
+            </speech>
+            <speech id="197">
+                <line>So I do still, by these pickers and stealers.</line>
+            </speech>
+            <speech id="198">
+                <line>Sir, I lack advancement.</line>
+            </speech>
+            <speech id="199">
+                <line>Ay, but sir, 'While the grass grows,'--the proverb</line>
+                <line>is something musty.</line>
+                <line>O, the recorders! let me see one. To withdraw with</line>
+                <line>you:--why do you go about to recover the wind of me,</line>
+                <line>as if you would drive me into a toil?</line>
+            </speech>
+            <speech id="200">
+                <line>I do not well understand that. Will you play upon</line>
+                <line>this pipe?</line>
+            </speech>
+            <speech id="201">
+                <line>I pray you.</line>
+            </speech>
+            <speech id="202">
+                <line>I do beseech you.</line>
+            </speech>
+            <speech id="203">
+                <line>'Tis as easy as lying: govern these ventages with</line>
+                <line>your lingers and thumb, give it breath with your</line>
+                <line>mouth, and it will discourse most eloquent music.</line>
+                <line>Look you, these are the stops.</line>
+            </speech>
+            <speech id="204">
+                <line>Why, look you now, how unworthy a thing you make of</line>
+                <line>me! You would play upon me; you would seem to know</line>
+                <line>my stops; you would pluck out the heart of my</line>
+                <line>mystery; you would sound me from my lowest note to</line>
+                <line>the top of my compass: and there is much music,</line>
+                <line>excellent voice, in this little organ; yet cannot</line>
+                <line>you make it speak. 'Sblood, do you think I am</line>
+                <line>easier to be played on than a pipe? Call me what</line>
+                <line>instrument you will, though you can fret me, yet you</line>
+                <line>cannot play upon me.</line>
+                <line>God bless you, sir!</line>
+            </speech>
+            <speech id="205">
+                <line>Do you see yonder cloud that's almost in shape of a camel?</line>
+            </speech>
+            <speech id="206">
+                <line>Methinks it is like a weasel.</line>
+            </speech>
+            <speech id="207">
+                <line>Or like a whale?</line>
+            </speech>
+            <speech id="208">
+                <line>Then I will come to my mother by and by. They fool</line>
+                <line>me to the top of my bent. I will come by and by.</line>
+            </speech>
+            <speech id="209">
+                <line>By and by is easily said.</line>
+                <line>Leave me, friends.</line>
+                <line>Tis now the very witching time of night,</line>
+                <line>When churchyards yawn and hell itself breathes out</line>
+                <line>Contagion to this world: now could I drink hot blood,</line>
+                <line>And do such bitter business as the day</line>
+                <line>Would quake to look on. Soft! now to my mother.</line>
+                <line>O heart, lose not thy nature; let not ever</line>
+                <line>The soul of Nero enter this firm bosom:</line>
+                <line>Let me be cruel, not unnatural:</line>
+                <line>I will speak daggers to her, but use none;</line>
+                <line>My tongue and soul in this be hypocrites;</line>
+                <line>How in my words soever she be shent,</line>
+                <line>To give them seals never, my soul, consent!</line>
+            </speech>
+        </scene>
+        <scene title="SCENE III. A room in the castle.">
+            <speech id="210">
+                <line>Now might I do it pat, now he is praying;</line>
+                <line>And now I'll do't. And so he goes to heaven;</line>
+                <line>And so am I revenged. That would be scann'd:</line>
+                <line>A villain kills my father; and for that,</line>
+                <line>I, his sole son, do this same villain send</line>
+                <line>To heaven.</line>
+                <line>O, this is hire and salary, not revenge.</line>
+                <line>He took my father grossly, full of bread;</line>
+                <line>With all his crimes broad blown, as flush as May;</line>
+                <line>And how his audit stands who knows save heaven?</line>
+                <line>But in our circumstance and course of thought,</line>
+                <line>'Tis heavy with him: and am I then revenged,</line>
+                <line>To take him in the purging of his soul,</line>
+                <line>When he is fit and season'd for his passage?</line>
+                <line>No!</line>
+                <line>Up, sword; and know thou a more horrid hent:</line>
+                <line>When he is drunk asleep, or in his rage,</line>
+                <line>Or in the incestuous pleasure of his bed;</line>
+                <line>At gaming, swearing, or about some act</line>
+                <line>That has no relish of salvation in't;</line>
+                <line>Then trip him, that his heels may kick at heaven,</line>
+                <line>And that his soul may be as damn'd and black</line>
+                <line>As hell, whereto it goes. My mother stays:</line>
+                <line>This physic but prolongs thy sickly days.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE IV. The Queen's closet.">
+            <speech id="211">
+                <line>
+                    Within
+                    Mother, mother, mother!
+                </line>
+            </speech>
+            <speech id="212">
+                <line>Now, mother, what's the matter?</line>
+            </speech>
+            <speech id="213">
+                <line>Mother, you have my father much offended.</line>
+            </speech>
+            <speech id="214">
+                <line>Go, go, you question with a wicked tongue.</line>
+            </speech>
+            <speech id="215">
+                <line>What's the matter now?</line>
+            </speech>
+            <speech id="216">
+                <line>No, by the rood, not so:</line>
+                <line>You are the queen, your husband's brother's wife;</line>
+                <line>And--would it were not so!--you are my mother.</line>
+            </speech>
+            <speech id="217">
+                <line>Come, come, and sit you down; you shall not budge;</line>
+                <line>You go not till I set you up a glass</line>
+                <line>Where you may see the inmost part of you.</line>
+            </speech>
+            <speech id="218">
+                <line>
+                    Drawing
+                    How now! a rat? Dead, for a ducat, dead!
+                </line>
+            </speech>
+            <speech id="219">
+                <line>Nay, I know not:</line>
+                <line>Is it the king?</line>
+            </speech>
+            <speech id="220">
+                <line>A bloody deed! almost as bad, good mother,</line>
+                <line>As kill a king, and marry with his brother.</line>
+            </speech>
+            <speech id="221">
+                <line>Ay, lady, 'twas my word.</line>
+                <line>Thou wretched, rash, intruding fool, farewell!</line>
+                <line>I took thee for thy better: take thy fortune;</line>
+                <line>Thou find'st to be too busy is some danger.</line>
+                <line>Leave wringing of your hands: peace! sit you down,</line>
+                <line>And let me wring your heart; for so I shall,</line>
+                <line>If it be made of penetrable stuff,</line>
+                <line>If damned custom have not brass'd it so</line>
+                <line>That it is proof and bulwark against sense.</line>
+            </speech>
+            <speech id="222">
+                <line>Such an act</line>
+                <line>That blurs the grace and blush of modesty,</line>
+                <line>Calls virtue hypocrite, takes off the rose</line>
+                <line>From the fair forehead of an innocent love</line>
+                <line>And sets a blister there, makes marriage-vows</line>
+                <line>As false as dicers' oaths: O, such a deed</line>
+                <line>As from the body of contraction plucks</line>
+                <line>The very soul, and sweet religion makes</line>
+                <line>A rhapsody of words: heaven's face doth glow:</line>
+                <line>Yea, this solidity and compound mass,</line>
+                <line>With tristful visage, as against the doom,</line>
+                <line>Is thought-sick at the act.</line>
+            </speech>
+            <speech id="223">
+                <line>Look here, upon this picture, and on this,</line>
+                <line>The counterfeit presentment of two brothers.</line>
+                <line>See, what a grace was seated on this brow;</line>
+                <line>Hyperion's curls; the front of Jove himself;</line>
+                <line>An eye like Mars, to threaten and command;</line>
+                <line>A station like the herald Mercury</line>
+                <line>New-lighted on a heaven-kissing hill;</line>
+                <line>A combination and a form indeed,</line>
+                <line>Where every god did seem to set his seal,</line>
+                <line>To give the world assurance of a man:</line>
+                <line>This was your husband. Look you now, what follows:</line>
+                <line>Here is your husband; like a mildew'd ear,</line>
+                <line>Blasting his wholesome brother. Have you eyes?</line>
+                <line>Could you on this fair mountain leave to feed,</line>
+                <line>And batten on this moor? Ha! have you eyes?</line>
+                <line>You cannot call it love; for at your age</line>
+                <line>The hey-day in the blood is tame, it's humble,</line>
+                <line>And waits upon the judgment: and what judgment</line>
+                <line>Would step from this to this? Sense, sure, you have,</line>
+                <line>Else could you not have motion; but sure, that sense</line>
+                <line>Is apoplex'd; for madness would not err,</line>
+                <line>Nor sense to ecstasy was ne'er so thrall'd</line>
+                <line>But it reserved some quantity of choice,</line>
+                <line>To serve in such a difference. What devil was't</line>
+                <line>That thus hath cozen'd you at hoodman-blind?</line>
+                <line>Eyes without feeling, feeling without sight,</line>
+                <line>Ears without hands or eyes, smelling sans all,</line>
+                <line>Or but a sickly part of one true sense</line>
+                <line>Could not so mope.</line>
+                <line>O shame! where is thy blush? Rebellious hell,</line>
+                <line>If thou canst mutine in a matron's bones,</line>
+                <line>To flaming youth let virtue be as wax,</line>
+                <line>And melt in her own fire: proclaim no shame</line>
+                <line>When the compulsive ardour gives the charge,</line>
+                <line>Since frost itself as actively doth burn</line>
+                <line>And reason panders will.</line>
+            </speech>
+            <speech id="224">
+                <line>Nay, but to live</line>
+                <line>In the rank sweat of an enseamed bed,</line>
+                <line>Stew'd in corruption, honeying and making love</line>
+                <line>Over the nasty sty,--</line>
+            </speech>
+            <speech id="225">
+                <line>A murderer and a villain;</line>
+                <line>A slave that is not twentieth part the tithe</line>
+                <line>Of your precedent lord; a vice of kings;</line>
+                <line>A cutpurse of the empire and the rule,</line>
+                <line>That from a shelf the precious diadem stole,</line>
+                <line>And put it in his pocket!</line>
+            </speech>
+            <speech id="226">
+                <line>A king of shreds and patches,--</line>
+                <line>Save me, and hover o'er me with your wings,</line>
+                <line>You heavenly guards! What would your gracious figure?</line>
+            </speech>
+            <speech id="227">
+                <line>Do you not come your tardy son to chide,</line>
+                <line>That, lapsed in time and passion, lets go by</line>
+                <line>The important acting of your dread command? O, say!</line>
+            </speech>
+            <speech id="228">
+                <line>How is it with you, lady?</line>
+            </speech>
+            <speech id="229">
+                <line>On him, on him! Look you, how pale he glares!</line>
+                <line>His form and cause conjoin'd, preaching to stones,</line>
+                <line>Would make them capable. Do not look upon me;</line>
+                <line>Lest with this piteous action you convert</line>
+                <line>My stern effects: then what I have to do</line>
+                <line>Will want true colour; tears perchance for blood.</line>
+            </speech>
+            <speech id="230">
+                <line>Do you see nothing there?</line>
+            </speech>
+            <speech id="231">
+                <line>Nor did you nothing hear?</line>
+            </speech>
+            <speech id="232">
+                <line>Why, look you there! look, how it steals away!</line>
+                <line>My father, in his habit as he lived!</line>
+                <line>Look, where he goes, even now, out at the portal!</line>
+            </speech>
+            <speech id="233">
+                <line>Ecstasy!</line>
+                <line>My pulse, as yours, doth temperately keep time,</line>
+                <line>And makes as healthful music: it is not madness</line>
+                <line>That I have utter'd: bring me to the test,</line>
+                <line>And I the matter will re-word; which madness</line>
+                <line>Would gambol from. Mother, for love of grace,</line>
+                <line>Lay not that mattering unction to your soul,</line>
+                <line>That not your trespass, but my madness speaks:</line>
+                <line>It will but skin and film the ulcerous place,</line>
+                <line>Whilst rank corruption, mining all within,</line>
+                <line>Infects unseen. Confess yourself to heaven;</line>
+                <line>Repent what's past; avoid what is to come;</line>
+                <line>And do not spread the compost on the weeds,</line>
+                <line>To make them ranker. Forgive me this my virtue;</line>
+                <line>For in the fatness of these pursy times</line>
+                <line>Virtue itself of vice must pardon beg,</line>
+                <line>Yea, curb and woo for leave to do him good.</line>
+            </speech>
+            <speech id="234">
+                <line>O, throw away the worser part of it,</line>
+                <line>And live the purer with the other half.</line>
+                <line>Good night: but go not to mine uncle's bed;</line>
+                <line>Assume a virtue, if you have it not.</line>
+                <line>That monster, custom, who all sense doth eat,</line>
+                <line>Of habits devil, is angel yet in this,</line>
+                <line>That to the use of actions fair and good</line>
+                <line>He likewise gives a frock or livery,</line>
+                <line>That aptly is put on. Refrain to-night,</line>
+                <line>And that shall lend a kind of easiness</line>
+                <line>To the next abstinence: the next more easy;</line>
+                <line>For use almost can change the stamp of nature,</line>
+                <line>And either ... the devil, or throw him out</line>
+                <line>With wondrous potency. Once more, good night:</line>
+                <line>And when you are desirous to be bless'd,</line>
+                <line>I'll blessing beg of you. For this same lord,</line>
+                <line>I do repent: but heaven hath pleased it so,</line>
+                <line>To punish me with this and this with me,</line>
+                <line>That I must be their scourge and minister.</line>
+                <line>I will bestow him, and will answer well</line>
+                <line>The death I gave him. So, again, good night.</line>
+                <line>I must be cruel, only to be kind:</line>
+                <line>Thus bad begins and worse remains behind.</line>
+                <line>One word more, good lady.</line>
+            </speech>
+            <speech id="235">
+                <line>Not this, by no means, that I bid you do:</line>
+                <line>Let the bloat king tempt you again to bed;</line>
+                <line>Pinch wanton on your cheek; call you his mouse;</line>
+                <line>And let him, for a pair of reechy kisses,</line>
+                <line>Or paddling in your neck with his damn'd fingers,</line>
+                <line>Make you to ravel all this matter out,</line>
+                <line>That I essentially am not in madness,</line>
+                <line>But mad in craft. 'Twere good you let him know;</line>
+                <line>For who, that's but a queen, fair, sober, wise,</line>
+                <line>Would from a paddock, from a bat, a gib,</line>
+                <line>Such dear concernings hide? who would do so?</line>
+                <line>No, in despite of sense and secrecy,</line>
+                <line>Unpeg the basket on the house's top.</line>
+                <line>Let the birds fly, and, like the famous ape,</line>
+                <line>To try conclusions, in the basket creep,</line>
+                <line>And break your own neck down.</line>
+            </speech>
+            <speech id="236">
+                <line>I must to England; you know that?</line>
+            </speech>
+            <speech id="237">
+                <line>There's letters seal'd: and my two schoolfellows,</line>
+                <line>Whom I will trust as I will adders fang'd,</line>
+                <line>They bear the mandate; they must sweep my way,</line>
+                <line>And marshal me to knavery. Let it work;</line>
+                <line>For 'tis the sport to have the engineer</line>
+                <line>Hoist with his own petard: and 't shall go hard</line>
+                <line>But I will delve one yard below their mines,</line>
+                <line>And blow them at the moon: O, 'tis most sweet,</line>
+                <line>When in one line two crafts directly meet.</line>
+                <line>This man shall set me packing:</line>
+                <line>I'll lug the guts into the neighbour room.</line>
+                <line>Mother, good night. Indeed this counsellor</line>
+                <line>Is now most still, most secret and most grave,</line>
+                <line>Who was in life a foolish prating knave.</line>
+                <line>Come, sir, to draw toward an end with you.</line>
+                <line>Good night, mother.</line>
+            </speech>
+        </scene>
+    </act>
+    <act title="ACT IV">
+        <scene title="SCENE I. A room in the castle."/>
+        <scene title="SCENE II. Another room in the castle.">
+            <speech id="238">
+                <line>Safely stowed.</line>
+            </speech>
+            <speech id="239">
+                <line>What noise? who calls on Hamlet?</line>
+                <line>O, here they come.</line>
+            </speech>
+            <speech id="240">
+                <line>Compounded it with dust, whereto 'tis kin.</line>
+            </speech>
+            <speech id="241">
+                <line>Do not believe it.</line>
+            </speech>
+            <speech id="242">
+                <line>That I can keep your counsel and not mine own.</line>
+                <line>Besides, to be demanded of a sponge! what</line>
+                <line>replication should be made by the son of a king?</line>
+            </speech>
+            <speech id="243">
+                <line>Ay, sir, that soaks up the king's countenance, his</line>
+                <line>rewards, his authorities. But such officers do the</line>
+                <line>king best service in the end: he keeps them, like</line>
+                <line>an ape, in the corner of his jaw; first mouthed, to</line>
+                <line>be last swallowed: when he needs what you have</line>
+                <line>gleaned, it is but squeezing you, and, sponge, you</line>
+                <line>shall be dry again.</line>
+            </speech>
+            <speech id="244">
+                <line>I am glad of it: a knavish speech sleeps in a</line>
+                <line>foolish ear.</line>
+            </speech>
+            <speech id="245">
+                <line>The body is with the king, but the king is not with</line>
+                <line>the body. The king is a thing--</line>
+            </speech>
+            <speech id="246">
+                <line>Of nothing: bring me to him. Hide fox, and all after.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE III. Another room in the castle.">
+            <speech id="247">
+                <line>At supper.</line>
+            </speech>
+            <speech id="248">
+                <line>Not where he eats, but where he is eaten: a certain</line>
+                <line>convocation of politic worms are e'en at him. Your</line>
+                <line>worm is your only emperor for diet: we fat all</line>
+                <line>creatures else to fat us, and we fat ourselves for</line>
+                <line>maggots: your fat king and your lean beggar is but</line>
+                <line>variable service, two dishes, but to one table:</line>
+                <line>that's the end.</line>
+            </speech>
+            <speech id="249">
+                <line>A man may fish with the worm that hath eat of a</line>
+                <line>king, and cat of the fish that hath fed of that worm.</line>
+            </speech>
+            <speech id="250">
+                <line>Nothing but to show you how a king may go a</line>
+                <line>progress through the guts of a beggar.</line>
+            </speech>
+            <speech id="251">
+                <line>In heaven; send hither to see: if your messenger</line>
+                <line>find him not there, seek him i' the other place</line>
+                <line>yourself. But indeed, if you find him not within</line>
+                <line>this month, you shall nose him as you go up the</line>
+                <line>stairs into the lobby.</line>
+            </speech>
+            <speech id="252">
+                <line>He will stay till ye come.</line>
+            </speech>
+            <speech id="253">
+                <line>For England!</line>
+            </speech>
+            <speech id="254">
+                <line>Good.</line>
+            </speech>
+            <speech id="255">
+                <line>I see a cherub that sees them. But, come; for</line>
+                <line>England! Farewell, dear mother.</line>
+            </speech>
+            <speech id="256">
+                <line>My mother: father and mother is man and wife; man</line>
+                <line>and wife is one flesh; and so, my mother. Come, for England!</line>
+            </speech>
+        </scene>
+        <scene title="SCENE IV. A plain in Denmark.">
+            <speech id="257">
+                <line>Good sir, whose powers are these?</line>
+            </speech>
+            <speech id="258">
+                <line>How purposed, sir, I pray you?</line>
+            </speech>
+            <speech id="259">
+                <line>Who commands them, sir?</line>
+            </speech>
+            <speech id="260">
+                <line>Goes it against the main of Poland, sir,</line>
+                <line>Or for some frontier?</line>
+            </speech>
+            <speech id="261">
+                <line>Why, then the Polack never will defend it.</line>
+            </speech>
+            <speech id="262">
+                <line>Two thousand souls and twenty thousand ducats</line>
+                <line>Will not debate the question of this straw:</line>
+                <line>This is the imposthume of much wealth and peace,</line>
+                <line>That inward breaks, and shows no cause without</line>
+                <line>Why the man dies. I humbly thank you, sir.</line>
+            </speech>
+            <speech id="263">
+                <line>I'll be with you straight go a little before.</line>
+                <line>How all occasions do inform against me,</line>
+                <line>And spur my dull revenge! What is a man,</line>
+                <line>If his chief good and market of his time</line>
+                <line>Be but to sleep and feed? a beast, no more.</line>
+                <line>Sure, he that made us with such large discourse,</line>
+                <line>Looking before and after, gave us not</line>
+                <line>That capability and god-like reason</line>
+                <line>To fust in us unused. Now, whether it be</line>
+                <line>Bestial oblivion, or some craven scruple</line>
+                <line>Of thinking too precisely on the event,</line>
+                <line>A thought which, quarter'd, hath but one part wisdom</line>
+                <line>And ever three parts coward, I do not know</line>
+                <line>Why yet I live to say 'This thing's to do;'</line>
+                <line>Sith I have cause and will and strength and means</line>
+                <line>To do't. Examples gross as earth exhort me:</line>
+                <line>Witness this army of such mass and charge</line>
+                <line>Led by a delicate and tender prince,</line>
+                <line>Whose spirit with divine ambition puff'd</line>
+                <line>Makes mouths at the invisible event,</line>
+                <line>Exposing what is mortal and unsure</line>
+                <line>To all that fortune, death and danger dare,</line>
+                <line>Even for an egg-shell. Rightly to be great</line>
+                <line>Is not to stir without great argument,</line>
+                <line>But greatly to find quarrel in a straw</line>
+                <line>When honour's at the stake. How stand I then,</line>
+                <line>That have a father kill'd, a mother stain'd,</line>
+                <line>Excitements of my reason and my blood,</line>
+                <line>And let all sleep? while, to my shame, I see</line>
+                <line>The imminent death of twenty thousand men,</line>
+                <line>That, for a fantasy and trick of fame,</line>
+                <line>Go to their graves like beds, fight for a plot</line>
+                <line>Whereon the numbers cannot try the cause,</line>
+                <line>Which is not tomb enough and continent</line>
+                <line>To hide the slain? O, from this time forth,</line>
+                <line>My thoughts be bloody, or be nothing worth!</line>
+            </speech>
+        </scene>
+        <scene title="SCENE V. Elsinore. A room in the castle."/>
+        <scene title="SCENE VI. Another room in the castle."/>
+        <scene title="SCENE VII. Another room in the castle."/>
+    </act>
+    <act title="ACT V">
+        <scene title="SCENE I. A churchyard.">
+            <speech id="264">
+                <line>Has this fellow no feeling of his business, that he</line>
+                <line>sings at grave-making?</line>
+            </speech>
+            <speech id="265">
+                <line>'Tis e'en so: the hand of little employment hath</line>
+                <line>the daintier sense.</line>
+            </speech>
+            <speech id="266">
+                <line>That skull had a tongue in it, and could sing once:</line>
+                <line>how the knave jowls it to the ground, as if it were</line>
+                <line>Cain's jaw-bone, that did the first murder! It</line>
+                <line>might be the pate of a politician, which this ass</line>
+                <line>now o'er-reaches; one that would circumvent God,</line>
+                <line>might it not?</line>
+            </speech>
+            <speech id="267">
+                <line>Or of a courtier; which could say 'Good morrow,</line>
+                <line>sweet lord! How dost thou, good lord?' This might</line>
+                <line>be my lord such-a-one, that praised my lord</line>
+                <line>such-a-one's horse, when he meant to beg it; might it not?</line>
+            </speech>
+            <speech id="268">
+                <line>Why, e'en so: and now my Lady Worm's; chapless, and</line>
+                <line>knocked about the mazzard with a sexton's spade:</line>
+                <line>here's fine revolution, an we had the trick to</line>
+                <line>see't. Did these bones cost no more the breeding,</line>
+                <line>but to play at loggats with 'em? mine ache to think on't.</line>
+            </speech>
+            <speech id="269">
+                <line>There's another: why may not that be the skull of a</line>
+                <line>lawyer? Where be his quiddities now, his quillets,</line>
+                <line>his cases, his tenures, and his tricks? why does he</line>
+                <line>suffer this rude knave now to knock him about the</line>
+                <line>sconce with a dirty shovel, and will not tell him of</line>
+                <line>his action of battery? Hum! This fellow might be</line>
+                <line>in's time a great buyer of land, with his statutes,</line>
+                <line>his recognizances, his fines, his double vouchers,</line>
+                <line>his recoveries: is this the fine of his fines, and</line>
+                <line>the recovery of his recoveries, to have his fine</line>
+                <line>pate full of fine dirt? will his vouchers vouch him</line>
+                <line>no more of his purchases, and double ones too, than</line>
+                <line>the length and breadth of a pair of indentures? The</line>
+                <line>very conveyances of his lands will hardly lie in</line>
+                <line>this box; and must the inheritor himself have no more, ha?</line>
+            </speech>
+            <speech id="270">
+                <line>Is not parchment made of sheepskins?</line>
+            </speech>
+            <speech id="271">
+                <line>They are sheep and calves which seek out assurance</line>
+                <line>in that. I will speak to this fellow. Whose</line>
+                <line>grave's this, sirrah?</line>
+            </speech>
+            <speech id="272">
+                <line>I think it be thine, indeed; for thou liest in't.</line>
+            </speech>
+            <speech id="273">
+                <line>'Thou dost lie in't, to be in't and say it is thine:</line>
+                <line>'tis for the dead, not for the quick; therefore thou liest.</line>
+            </speech>
+            <speech id="274">
+                <line>What man dost thou dig it for?</line>
+            </speech>
+            <speech id="275">
+                <line>What woman, then?</line>
+            </speech>
+            <speech id="276">
+                <line>Who is to be buried in't?</line>
+            </speech>
+            <speech id="277">
+                <line>How absolute the knave is! we must speak by the</line>
+                <line>card, or equivocation will undo us. By the Lord,</line>
+                <line>Horatio, these three years I have taken a note of</line>
+                <line>it; the age is grown so picked that the toe of the</line>
+                <line>peasant comes so near the heel of the courtier, he</line>
+                <line>gaffs his kibe. How long hast thou been a</line>
+                <line>grave-maker?</line>
+            </speech>
+            <speech id="278">
+                <line>How long is that since?</line>
+            </speech>
+            <speech id="279">
+                <line>Ay, marry, why was he sent into England?</line>
+            </speech>
+            <speech id="280">
+                <line>Why?</line>
+            </speech>
+            <speech id="281">
+                <line>How came he mad?</line>
+            </speech>
+            <speech id="282">
+                <line>How strangely?</line>
+            </speech>
+            <speech id="283">
+                <line>Upon what ground?</line>
+            </speech>
+            <speech id="284">
+                <line>How long will a man lie i' the earth ere he rot?</line>
+            </speech>
+            <speech id="285">
+                <line>Why he more than another?</line>
+            </speech>
+            <speech id="286">
+                <line>Whose was it?</line>
+            </speech>
+            <speech id="287">
+                <line>Nay, I know not.</line>
+            </speech>
+            <speech id="288">
+                <line>This?</line>
+            </speech>
+            <speech id="289">
+                <line>Let me see.</line>
+                <line>Alas, poor Yorick! I knew him, Horatio: a fellow</line>
+                <line>of infinite jest, of most excellent fancy: he hath</line>
+                <line>borne me on his back a thousand times; and now, how</line>
+                <line>abhorred in my imagination it is! my gorge rims at</line>
+                <line>it. Here hung those lips that I have kissed I know</line>
+                <line>not how oft. Where be your gibes now? your</line>
+                <line>gambols? your songs? your flashes of merriment,</line>
+                <line>that were wont to set the table on a roar? Not one</line>
+                <line>now, to mock your own grinning? quite chap-fallen?</line>
+                <line>Now get you to my lady's chamber, and tell her, let</line>
+                <line>her paint an inch thick, to this favour she must</line>
+                <line>come; make her laugh at that. Prithee, Horatio, tell</line>
+                <line>me one thing.</line>
+            </speech>
+            <speech id="290">
+                <line>Dost thou think Alexander looked o' this fashion i'</line>
+                <line>the earth?</line>
+            </speech>
+            <speech id="291">
+                <line>And smelt so? pah!</line>
+            </speech>
+            <speech id="292">
+                <line>To what base uses we may return, Horatio! Why may</line>
+                <line>not imagination trace the noble dust of Alexander,</line>
+                <line>till he find it stopping a bung-hole?</line>
+            </speech>
+            <speech id="293">
+                <line>No, faith, not a jot; but to follow him thither with</line>
+                <line>modesty enough, and likelihood to lead it: as</line>
+                <line>thus: Alexander died, Alexander was buried,</line>
+                <line>Alexander returneth into dust; the dust is earth; of</line>
+                <line>earth we make loam; and why of that loam, whereto he</line>
+                <line>was converted, might they not stop a beer-barrel?</line>
+                <line>Imperious Caesar, dead and turn'd to clay,</line>
+                <line>Might stop a hole to keep the wind away:</line>
+                <line>O, that that earth, which kept the world in awe,</line>
+                <line>Should patch a wall to expel the winter flaw!</line>
+                <line>But soft! but soft! aside: here comes the king.</line>
+                <line>The queen, the courtiers: who is this they follow?</line>
+                <line>And with such maimed rites? This doth betoken</line>
+                <line>The corse they follow did with desperate hand</line>
+                <line>Fordo its own life: 'twas of some estate.</line>
+                <line>Couch we awhile, and mark.</line>
+            </speech>
+            <speech id="294">
+                <line>That is Laertes,</line>
+                <line>A very noble youth: mark.</line>
+            </speech>
+            <speech id="295">
+                <line>What, the fair Ophelia!</line>
+            </speech>
+            <speech id="296">
+                <line>
+                    Advancing
+                    What is he whose grief
+                </line>
+                <line>Bears such an emphasis? whose phrase of sorrow</line>
+                <line>Conjures the wandering stars, and makes them stand</line>
+                <line>Like wonder-wounded hearers? This is I,</line>
+                <line>Hamlet the Dane.</line>
+            </speech>
+            <speech id="297">
+                <line>Thou pray'st not well.</line>
+                <line>I prithee, take thy fingers from my throat;</line>
+                <line>For, though I am not splenitive and rash,</line>
+                <line>Yet have I something in me dangerous,</line>
+                <line>Which let thy wiseness fear: hold off thy hand.</line>
+            </speech>
+            <speech id="298">
+                <line>Why I will fight with him upon this theme</line>
+                <line>Until my eyelids will no longer wag.</line>
+            </speech>
+            <speech id="299">
+                <line>I loved Ophelia: forty thousand brothers</line>
+                <line>Could not, with all their quantity of love,</line>
+                <line>Make up my sum. What wilt thou do for her?</line>
+            </speech>
+            <speech id="300">
+                <line>'Swounds, show me what thou'lt do:</line>
+                <line>Woo't weep? woo't fight? woo't fast? woo't tear thyself?</line>
+                <line>Woo't drink up eisel? eat a crocodile?</line>
+                <line>I'll do't. Dost thou come here to whine?</line>
+                <line>To outface me with leaping in her grave?</line>
+                <line>Be buried quick with her, and so will I:</line>
+                <line>And, if thou prate of mountains, let them throw</line>
+                <line>Millions of acres on us, till our ground,</line>
+                <line>Singeing his pate against the burning zone,</line>
+                <line>Make Ossa like a wart! Nay, an thou'lt mouth,</line>
+                <line>I'll rant as well as thou.</line>
+            </speech>
+            <speech id="301">
+                <line>Hear you, sir;</line>
+                <line>What is the reason that you use me thus?</line>
+                <line>I loved you ever: but it is no matter;</line>
+                <line>Let Hercules himself do what he may,</line>
+                <line>The cat will mew and dog will have his day.</line>
+            </speech>
+        </scene>
+        <scene title="SCENE II. A hall in the castle.">
+            <speech id="302">
+                <line>So much for this, sir: now shall you see the other;</line>
+                <line>You do remember all the circumstance?</line>
+            </speech>
+            <speech id="303">
+                <line>Sir, in my heart there was a kind of fighting,</line>
+                <line>That would not let me sleep: methought I lay</line>
+                <line>Worse than the mutines in the bilboes. Rashly,</line>
+                <line>And praised be rashness for it, let us know,</line>
+                <line>Our indiscretion sometimes serves us well,</line>
+                <line>When our deep plots do pall: and that should teach us</line>
+                <line>There's a divinity that shapes our ends,</line>
+                <line>Rough-hew them how we will,--</line>
+            </speech>
+            <speech id="304">
+                <line>Up from my cabin,</line>
+                <line>My sea-gown scarf'd about me, in the dark</line>
+                <line>Groped I to find out them; had my desire.</line>
+                <line>Finger'd their packet, and in fine withdrew</line>
+                <line>To mine own room again; making so bold,</line>
+                <line>My fears forgetting manners, to unseal</line>
+                <line>Their grand commission; where I found, Horatio,--</line>
+                <line>O royal knavery!--an exact command,</line>
+                <line>Larded with many several sorts of reasons</line>
+                <line>Importing Denmark's health and England's too,</line>
+                <line>With, ho! such bugs and goblins in my life,</line>
+                <line>That, on the supervise, no leisure bated,</line>
+                <line>No, not to stay the grinding of the axe,</line>
+                <line>My head should be struck off.</line>
+            </speech>
+            <speech id="305">
+                <line>Here's the commission: read it at more leisure.</line>
+                <line>But wilt thou hear me how I did proceed?</line>
+            </speech>
+            <speech id="306">
+                <line>Being thus be-netted round with villanies,--</line>
+                <line>Ere I could make a prologue to my brains,</line>
+                <line>They had begun the play--I sat me down,</line>
+                <line>Devised a new commission, wrote it fair:</line>
+                <line>I once did hold it, as our statists do,</line>
+                <line>A baseness to write fair and labour'd much</line>
+                <line>How to forget that learning, but, sir, now</line>
+                <line>It did me yeoman's service: wilt thou know</line>
+                <line>The effect of what I wrote?</line>
+            </speech>
+            <speech id="307">
+                <line>An earnest conjuration from the king,</line>
+                <line>As England was his faithful tributary,</line>
+                <line>As love between them like the palm might flourish,</line>
+                <line>As peace should stiff her wheaten garland wear</line>
+                <line>And stand a comma 'tween their amities,</line>
+                <line>And many such-like 'As'es of great charge,</line>
+                <line>That, on the view and knowing of these contents,</line>
+                <line>Without debatement further, more or less,</line>
+                <line>He should the bearers put to sudden death,</line>
+                <line>Not shriving-time allow'd.</line>
+            </speech>
+            <speech id="308">
+                <line>Why, even in that was heaven ordinant.</line>
+                <line>I had my father's signet in my purse,</line>
+                <line>Which was the model of that Danish seal;</line>
+                <line>Folded the writ up in form of the other,</line>
+                <line>Subscribed it, gave't the impression, placed it safely,</line>
+                <line>The changeling never known. Now, the next day</line>
+                <line>Was our sea-fight; and what to this was sequent</line>
+                <line>Thou know'st already.</line>
+            </speech>
+            <speech id="309">
+                <line>Why, man, they did make love to this employment;</line>
+                <line>They are not near my conscience; their defeat</line>
+                <line>Does by their own insinuation grow:</line>
+                <line>'Tis dangerous when the baser nature comes</line>
+                <line>Between the pass and fell incensed points</line>
+                <line>Of mighty opposites.</line>
+            </speech>
+            <speech id="310">
+                <line>Does it not, think'st thee, stand me now upon--</line>
+                <line>He that hath kill'd my king and whored my mother,</line>
+                <line>Popp'd in between the election and my hopes,</line>
+                <line>Thrown out his angle for my proper life,</line>
+                <line>And with such cozenage--is't not perfect conscience,</line>
+                <line>To quit him with this arm? and is't not to be damn'd,</line>
+                <line>To let this canker of our nature come</line>
+                <line>In further evil?</line>
+            </speech>
+            <speech id="311">
+                <line>It will be short: the interim is mine;</line>
+                <line>And a man's life's no more than to say 'One.'</line>
+                <line>But I am very sorry, good Horatio,</line>
+                <line>That to Laertes I forgot myself;</line>
+                <line>For, by the image of my cause, I see</line>
+                <line>The portraiture of his: I'll court his favours.</line>
+                <line>But, sure, the bravery of his grief did put me</line>
+                <line>Into a towering passion.</line>
+            </speech>
+            <speech id="312">
+                <line>I humbly thank you, sir. Dost know this water-fly?</line>
+            </speech>
+            <speech id="313">
+                <line>Thy state is the more gracious; for 'tis a vice to</line>
+                <line>know him. He hath much land, and fertile: let a</line>
+                <line>beast be lord of beasts, and his crib shall stand at</line>
+                <line>the king's mess: 'tis a chough; but, as I say,</line>
+                <line>spacious in the possession of dirt.</line>
+            </speech>
+            <speech id="314">
+                <line>I will receive it, sir, with all diligence of</line>
+                <line>spirit. Put your bonnet to his right use; 'tis for the head.</line>
+            </speech>
+            <speech id="315">
+                <line>No, believe me, 'tis very cold; the wind is</line>
+                <line>northerly.</line>
+            </speech>
+            <speech id="316">
+                <line>But yet methinks it is very sultry and hot for my</line>
+                <line>complexion.</line>
+            </speech>
+            <speech id="317">
+                <line>I beseech you, remember--</line>
+            </speech>
+            <speech id="318">
+                <line>Sir, his definement suffers no perdition in you;</line>
+                <line>though, I know, to divide him inventorially would</line>
+                <line>dizzy the arithmetic of memory, and yet but yaw</line>
+                <line>neither, in respect of his quick sail. But, in the</line>
+                <line>verity of extolment, I take him to be a soul of</line>
+                <line>great article; and his infusion of such dearth and</line>
+                <line>rareness, as, to make true diction of him, his</line>
+                <line>semblable is his mirror; and who else would trace</line>
+                <line>him, his umbrage, nothing more.</line>
+            </speech>
+            <speech id="319">
+                <line>The concernancy, sir? why do we wrap the gentleman</line>
+                <line>in our more rawer breath?</line>
+            </speech>
+            <speech id="320">
+                <line>What imports the nomination of this gentleman?</line>
+            </speech>
+            <speech id="321">
+                <line>Of him, sir.</line>
+            </speech>
+            <speech id="322">
+                <line>I would you did, sir; yet, in faith, if you did,</line>
+                <line>it would not much approve me. Well, sir?</line>
+            </speech>
+            <speech id="323">
+                <line>I dare not confess that, lest I should compare with</line>
+                <line>him in excellence; but, to know a man well, were to</line>
+                <line>know himself.</line>
+            </speech>
+            <speech id="324">
+                <line>What's his weapon?</line>
+            </speech>
+            <speech id="325">
+                <line>That's two of his weapons: but, well.</line>
+            </speech>
+            <speech id="326">
+                <line>What call you the carriages?</line>
+            </speech>
+            <speech id="327">
+                <line>The phrase would be more german to the matter, if we</line>
+                <line>could carry cannon by our sides: I would it might</line>
+                <line>be hangers till then. But, on: six Barbary horses</line>
+                <line>against six French swords, their assigns, and three</line>
+                <line>liberal-conceited carriages; that's the French bet</line>
+                <line>against the Danish. Why is this 'imponed,' as you call it?</line>
+            </speech>
+            <speech id="328">
+                <line>How if I answer 'no'?</line>
+            </speech>
+            <speech id="329">
+                <line>Sir, I will walk here in the hall: if it please his</line>
+                <line>majesty, 'tis the breathing time of day with me; let</line>
+                <line>the foils be brought, the gentleman willing, and the</line>
+                <line>king hold his purpose, I will win for him an I can;</line>
+                <line>if not, I will gain nothing but my shame and the odd hits.</line>
+            </speech>
+            <speech id="330">
+                <line>To this effect, sir; after what flourish your nature will.</line>
+            </speech>
+            <speech id="331">
+                <line>Yours, yours.</line>
+                <line>He does well to commend it himself; there are no</line>
+                <line>tongues else for's turn.</line>
+            </speech>
+            <speech id="332">
+                <line>He did comply with his dug, before he sucked it.</line>
+                <line>Thus has he--and many more of the same bevy that I</line>
+                <line>know the dressy age dotes on--only got the tune of</line>
+                <line>the time and outward habit of encounter; a kind of</line>
+                <line>yesty collection, which carries them through and</line>
+                <line>through the most fond and winnowed opinions; and do</line>
+                <line>but blow them to their trial, the bubbles are out.</line>
+            </speech>
+            <speech id="333">
+                <line>I am constant to my purpose; they follow the king's</line>
+                <line>pleasure: if his fitness speaks, mine is ready; now</line>
+                <line>or whensoever, provided I be so able as now.</line>
+            </speech>
+            <speech id="334">
+                <line>In happy time.</line>
+            </speech>
+            <speech id="335">
+                <line>She well instructs me.</line>
+            </speech>
+            <speech id="336">
+                <line>I do not think so: since he went into France, I</line>
+                <line>have been in continual practise: I shall win at the</line>
+                <line>odds. But thou wouldst not think how ill all's here</line>
+                <line>about my heart: but it is no matter.</line>
+            </speech>
+            <speech id="337">
+                <line>It is but foolery; but it is such a kind of</line>
+                <line>gain-giving, as would perhaps trouble a woman.</line>
+            </speech>
+            <speech id="338">
+                <line>Not a whit, we defy augury: there's a special</line>
+                <line>providence in the fall of a sparrow. If it be now,</line>
+                <line>'tis not to come; if it be not to come, it will be</line>
+                <line>now; if it be not now, yet it will come: the</line>
+                <line>readiness is all: since no man has aught of what he</line>
+                <line>leaves, what is't to leave betimes?</line>
+            </speech>
+            <speech id="339">
+                <line>Give me your pardon, sir: I've done you wrong;</line>
+                <line>But pardon't, as you are a gentleman.</line>
+                <line>This presence knows,</line>
+                <line>And you must needs have heard, how I am punish'd</line>
+                <line>With sore distraction. What I have done,</line>
+                <line>That might your nature, honour and exception</line>
+                <line>Roughly awake, I here proclaim was madness.</line>
+                <line>Was't Hamlet wrong'd Laertes? Never Hamlet:</line>
+                <line>If Hamlet from himself be ta'en away,</line>
+                <line>And when he's not himself does wrong Laertes,</line>
+                <line>Then Hamlet does it not, Hamlet denies it.</line>
+                <line>Who does it, then? His madness: if't be so,</line>
+                <line>Hamlet is of the faction that is wrong'd;</line>
+                <line>His madness is poor Hamlet's enemy.</line>
+                <line>Sir, in this audience,</line>
+                <line>Let my disclaiming from a purposed evil</line>
+                <line>Free me so far in your most generous thoughts,</line>
+                <line>That I have shot mine arrow o'er the house,</line>
+                <line>And hurt my brother.</line>
+            </speech>
+            <speech id="340">
+                <line>I embrace it freely;</line>
+                <line>And will this brother's wager frankly play.</line>
+                <line>Give us the foils. Come on.</line>
+            </speech>
+            <speech id="341">
+                <line>I'll be your foil, Laertes: in mine ignorance</line>
+                <line>Your skill shall, like a star i' the darkest night,</line>
+                <line>Stick fiery off indeed.</line>
+            </speech>
+            <speech id="342">
+                <line>No, by this hand.</line>
+            </speech>
+            <speech id="343">
+                <line>Very well, my lord</line>
+                <line>Your grace hath laid the odds o' the weaker side.</line>
+            </speech>
+            <speech id="344">
+                <line>This likes me well. These foils have all a length?</line>
+            </speech>
+            <speech id="345">
+                <line>Come on, sir.</line>
+            </speech>
+            <speech id="346">
+                <line>One.</line>
+            </speech>
+            <speech id="347">
+                <line>Judgment.</line>
+            </speech>
+            <speech id="348">
+                <line>I'll play this bout first; set it by awhile. Come.</line>
+                <line>Another hit; what say you?</line>
+            </speech>
+            <speech id="349">
+                <line>Good madam!</line>
+            </speech>
+            <speech id="350">
+                <line>I dare not drink yet, madam; by and by.</line>
+            </speech>
+            <speech id="351">
+                <line>Come, for the third, Laertes: you but dally;</line>
+                <line>I pray you, pass with your best violence;</line>
+                <line>I am afeard you make a wanton of me.</line>
+            </speech>
+            <speech id="352">
+                <line>Nay, come, again.</line>
+            </speech>
+            <speech id="353">
+                <line>How does the queen?</line>
+            </speech>
+            <speech id="354">
+                <line>O villany! Ho! let the door be lock'd:</line>
+                <line>Treachery! Seek it out.</line>
+            </speech>
+            <speech id="355">
+                <line>The point!--envenom'd too!</line>
+                <line>Then, venom, to thy work.</line>
+            </speech>
+            <speech id="356">
+                <line>Here, thou incestuous, murderous, damned Dane,</line>
+                <line>Drink off this potion. Is thy union here?</line>
+                <line>Follow my mother.</line>
+            </speech>
+            <speech id="357">
+                <line>Heaven make thee free of it! I follow thee.</line>
+                <line>I am dead, Horatio. Wretched queen, adieu!</line>
+                <line>You that look pale and tremble at this chance,</line>
+                <line>That are but mutes or audience to this act,</line>
+                <line>Had I but time--as this fell sergeant, death,</line>
+                <line>Is strict in his arrest--O, I could tell you--</line>
+                <line>But let it be. Horatio, I am dead;</line>
+                <line>Thou livest; report me and my cause aright</line>
+                <line>To the unsatisfied.</line>
+            </speech>
+            <speech id="358">
+                <line>As thou'rt a man,</line>
+                <line>Give me the cup: let go; by heaven, I'll have't.</line>
+                <line>O good Horatio, what a wounded name,</line>
+                <line>Things standing thus unknown, shall live behind me!</line>
+                <line>If thou didst ever hold me in thy heart</line>
+                <line>Absent thee from felicity awhile,</line>
+                <line>And in this harsh world draw thy breath in pain,</line>
+                <line>To tell my story.</line>
+                <line>What warlike noise is this?</line>
+            </speech>
+            <speech id="359">
+                <line>O, I die, Horatio;</line>
+                <line>The potent poison quite o'er-crows my spirit:</line>
+                <line>I cannot live to hear the news from England;</line>
+                <line>But I do prophesy the election lights</line>
+                <line>On Fortinbras: he has my dying voice;</line>
+                <line>So tell him, with the occurrents, more and less,</line>
+                <line>Which have solicited. The rest is silence.</line>
+            </speech>
+        </scene>
+    </act>
+</lines>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-253.29346.138">
+    <data-source name="postsql.mandela.ac.za\wrr" uuid="07d2eefa-2f80-4d97-a9d5-d1bea3329edf">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

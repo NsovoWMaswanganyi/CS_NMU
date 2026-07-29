@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlserver7-win-auth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Example01/libs/sqlserver7-win-auth.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

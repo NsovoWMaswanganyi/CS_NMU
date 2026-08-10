@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Property <T> {
 
@@ -39,10 +40,8 @@ public class Property <T> {
         listeners.add(listener);
     }
 
-    public void addListeners( PropertyListener<T>... listeners) {
-        for (PropertyListener<T> listener : listeners) {
-            this.listeners.add(listener);
-        }
+    public void addListeners(PropertyListener<T>... listeners) {
+        Collections.addAll(this.listeners, listeners);
     }
 
     public void removeListener(PropertyListener<T> listener) {
